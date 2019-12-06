@@ -2,7 +2,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="https://www.w3.org/1999/xhtml" lang="nl">
 <head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /><script type="text/javascript" src="incl/all.js"></script>
-<link rel="stylesheet" type="text/css" href="css/2.css" /><title>Nieuw Topic...</title></head>
+<link rel="stylesheet" type="text/css" href="css/2.css" /><title>Nieuw Topic...</title><!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://adsrv.innocraft.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '51']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.innocraft.cloud/adsrv.innocraft.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://adsrv.innocraft.cloud/matomo.php?idsite=51&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code --></head>
 <body><form name="y" action="/Forums/Algemeen/new.php" method="post" onsubmit="return check1form('Alle velden moeten ingevuld worden...')"><input type="hidden" name="desc" value="1" />
 <input type="hidden" name="mem_pic" value="w1" /><input type="hidden" name="f" value="0" /><input type="hidden" name="image" value="" /><input type="hidden" name="key" value="" />
 <table width="400" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td class="q">

@@ -1,7 +1,23 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <!-- BIG SAM v.1.1.08 * Built_In Guestbook / Stand_Alone Module * https://www.atilla.org/bigsam/ -->
 <html>
-<head><title>Hutten Gastenboek</title></head><body bgcolor="#FFFFFF">
+<head><title>Hutten Gastenboek</title><!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://adsrv.innocraft.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '51']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src='//cdn.innocraft.cloud/adsrv.innocraft.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://adsrv.innocraft.cloud/matomo.php?idsite=51&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code --></head><body bgcolor="#FFFFFF">
 <center>
 <form method="POST" action="/guestbooks/main-gb.php"><table border="0" cellspacing="0" cellpadding="3">
 <tr bgcolor="#666666">

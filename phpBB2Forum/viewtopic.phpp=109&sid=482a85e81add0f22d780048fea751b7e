@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -470,7 +470,7 @@ jammer dus <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /> misschi
 <br />
 
 <br />
-reclame mag al eens: kijk eens op <a href="http://www.climb.bergstijgers.org/" target="_blank" class="postlink">deze</a> site. 't Zijn klimmers, ze zijn allemaal jouw leeftijd, hebben geen geld, tijd zat in de vakanties en zo zot als een achterdeur. Of ze toestemming hebben van hun ouders, dat weet ik soms niet... Serieus, op hun site kun je wel info vragen over opleidingen tegen (relatief) democratische prijzen...
+reclame mag al eens: kijk eens op <a href="https://www.climb.bergstijgers.org/" target="_blank" class="postlink">deze</a> site. 't Zijn klimmers, ze zijn allemaal jouw leeftijd, hebben geen geld, tijd zat in de vakanties en zo zot als een achterdeur. Of ze toestemming hebben van hun ouders, dat weet ik soms niet... Serieus, op hun site kun je wel info vragen over opleidingen tegen (relatief) democratische prijzen...
 <br />
 
 <br />
@@ -546,7 +546,7 @@ K</span><span class="gensmall"></span></td>
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

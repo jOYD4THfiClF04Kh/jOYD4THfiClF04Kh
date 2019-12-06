@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -298,7 +298,7 @@ input.liteoption {
 				<td colspan="2"><hr /></td>
 			</tr>
 			<tr>
-				<td colspan="2"><span class="postbody">Naar aanleiding van de plannen om weer een futuristisch uitziende hut in de bergen neer te planten (Zie het artikel in Focus op deze site: <a href="http://www.hutten.be/Focus/Foc2005/foc-20050501-mrhut.html" target="_blank" class="postlink">http://www.hutten.be/Focus/Foc2005/foc-20050501-mrhut.html</a>) wil ik hieronder jouw mening wel even kennen. Neem nu even de Cabane du Vélan en de geplande Monte Rosa Hütte, meen jij dat dergelijk bouwprojecten een plaats moeten krijgen in het berglandschap of zou zo’n hut niet beter het gezellige karakter moeten behouden door traditionele bouwmaterialen, als plaatselijke stenen, te gebruiken ? Kortom ben jij voor of tegen futuristische bouwstijlen in het hooggebergte ?
+				<td colspan="2"><span class="postbody">Naar aanleiding van de plannen om weer een futuristisch uitziende hut in de bergen neer te planten (Zie het artikel in Focus op deze site: <a href="https://www.hutten.be/Focus/Foc2005/foc-20050501-mrhut.html" target="_blank" class="postlink">https://www.hutten.be/Focus/Foc2005/foc-20050501-mrhut.html</a>) wil ik hieronder jouw mening wel even kennen. Neem nu even de Cabane du Vélan en de geplande Monte Rosa Hütte, meen jij dat dergelijk bouwprojecten een plaats moeten krijgen in het berglandschap of zou zo’n hut niet beter het gezellige karakter moeten behouden door traditionele bouwmaterialen, als plaatselijke stenen, te gebruiken ? Kortom ben jij voor of tegen futuristische bouwstijlen in het hooggebergte ?
 <br />
 
 <br />
@@ -527,7 +527,7 @@ Timme</span><span class="gensmall"></span></td>
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

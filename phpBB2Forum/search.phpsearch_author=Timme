@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -284,7 +284,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Do Mrt 15, 2007 2:54 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=147&amp;highlight=#147">Futuristische berghutten.</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ik ben anti !<br />Ik zweer bij de gezelligheid die een hut moet uitstralen !!<br />Ik keer terug naar de bergen, om WEG te zijn van al die toestanden en dan wil ik dergelijk gedrocht zeker niet tegenkomen !! ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ik ben anti !
+<br />Ik zweer bij de gezelligheid die een hut moet uitstralen !!
+<br />Ik keer terug naar de bergen, om WEG te zijn van al die toestanden en dan wil ik dergelijk gedrocht zeker niet tegenkomen !! ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=56&amp;highlight=" class="topictitle">Wanneer trek jij de bergen in?</a></span></td>
@@ -298,7 +300,17 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Do Mrt 15, 2007 2:51 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=146&amp;highlight=#146">Wanneer trek jij de bergen in?</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Tot nu toe;<br /><br />Periode : zomer<br />Activiteit : wandelen - klettersteig<br /><br />Toekomst<br />Skieën staat wel op het verlanglijstje !<br /><br />Voila...<br />Greetings<br />Timme</span></td>
+	<td valign="top" class="row1"><span class="postbody">Tot nu toe;
+<br />
+<br />Periode : zomer
+<br />Activiteit : wandelen - klettersteig
+<br />
+<br />Toekomst
+<br />Skieën staat wel op het verlanglijstje !
+<br />
+<br />Voila...
+<br />Greetings
+<br />Timme</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=45&amp;highlight=" class="topictitle">Reservaties</a></span></td>
@@ -312,7 +324,12 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Di Mrt 13, 2007 11:58 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=144&amp;highlight=#144">Reservaties</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ben al op de site gaan kijken en de prijs valt daar ook heel goed van mee... alvast bedankt voor de tip !!<br /><br />Maar, heb je daarmee warm genoeg ?<br />Wat gebruiken de andere forumleden ?<br /><br />Alle info omtr ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ben al op de site gaan kijken en de prijs valt daar ook heel goed van mee... alvast bedankt voor de tip !!
+<br />
+<br />Maar, heb je daarmee warm genoeg ?
+<br />Wat gebruiken de andere forumleden ?
+<br />
+<br />Alle info omtr ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=45&amp;highlight=" class="topictitle">Reservaties</a></span></td>
@@ -326,7 +343,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Ma Mrt 12, 2007 4:45 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=142&amp;highlight=#142">Reservaties</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ik heb nog een aansluitend vraagje, moet je in een berghut, zelf je slaapzak meenemen of is er beddengoed aanwezig ?<br /><br />Alvast bedankt<br /><br />Timme</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ik heb nog een aansluitend vraagje, moet je in een berghut, zelf je slaapzak meenemen of is er beddengoed aanwezig ?
+<br />
+<br />Alvast bedankt
+<br />
+<br />Timme</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=45&amp;highlight=" class="topictitle">Reservaties</a></span></td>
@@ -340,7 +361,10 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Vr Jan 26, 2007 1:08 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=111&amp;highlight=#111">Reservaties</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Alvast bedankt voor de reacties !!!!<br /><br />We zouden op het einde van juli gaan rondtrekken...<br />Op dit moment zou ik van Steinseehutte - Wurtembergerhaus - Memmingerhutte - Ansbacherhutte - ... willen tr ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Alvast bedankt voor de reacties !!!!
+<br />
+<br />We zouden op het einde van juli gaan rondtrekken...
+<br />Op dit moment zou ik van Steinseehutte - Wurtembergerhaus - Memmingerhutte - Ansbacherhutte - ... willen tr ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=45&amp;highlight=" class="topictitle">Reservaties</a></span></td>
@@ -368,7 +392,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Ma Jan 15, 2007 2:10 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=84&amp;highlight=#84">Reservaties</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Gegroet allemaal<br /><br />Deze zomer plan ik een huttentocht in het Lectal. ( = lechtaleralpen en allgaueralpen).  <br />Mijn vraag is nu, hoelang op voorhand moet er gereserveerd worden voor een hut ?<br />Zijn di ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Gegroet allemaal
+<br />
+<br />Deze zomer plan ik een huttentocht in het Lectal. ( = lechtaleralpen en allgaueralpen).  
+<br />Mijn vraag is nu, hoelang op voorhand moet er gereserveerd worden voor een hut ?
+<br />Zijn di ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -379,7 +407,7 @@ input.liteoption {
   <tr>
 	<td align="left" valign="top"><span class="nav">Pagina <b>1</b> van <b>1</b></span></td>
 	<td align="right" valign="top" nowrap="nowrap"><span class="nav"></span><br /><span class="gensmall">Tijden zijn in GMT - 8 uur</span></td>
-  </tr>
+  </tr>https://https://
 </table>
 
 <table width="100%" cellspacing="2" border="0" align="center">

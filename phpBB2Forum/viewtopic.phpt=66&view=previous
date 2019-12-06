@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -328,7 +328,7 @@ Jack wordt nu echt rood van schaamte: &quot;Ja, sorry hoor. Het is allemaal waar
 <br />
 
 <br />
-bron: <a href="http://www.moppensite.be" target="_blank" class="postlink">http://www.moppensite.be</a></span><span class="gensmall"></span></td>
+bron: <a href="https://www.moppensite.be" target="_blank" class="postlink">https://www.moppensite.be</a></span><span class="gensmall"></span></td>
 			</tr>
 		</table></td>
 	</tr>
@@ -400,7 +400,7 @@ bron: <a href="http://www.moppensite.be" target="_blank" class="postlink">http:/
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

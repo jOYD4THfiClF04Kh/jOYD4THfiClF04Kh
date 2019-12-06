@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -349,7 +349,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">Kapellen</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">07 Jan 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://www.brugmansia.be" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://www.brugmansia.be" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;10&nbsp;</span></td>
@@ -589,7 +589,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">Sweden</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">21 Feb 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://www.oxkb.com/59/sizzler-coupons.html" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://www.oxkb.com/59/sizzler-coupons.html" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;34&nbsp;</span></td>
@@ -619,7 +619,7 @@ input.liteoption {
 	  <td class="row2" align="center" valign="middle"><span class="gen">Brugge en Gent</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gensmall">05 Mrt 2007</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row2" align="center">&nbsp;<a href="http://tim.verfaillie.googlepages.com" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center">&nbsp;<a href="https://tim.verfaillie.googlepages.com" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row1" align="center"><span class="gen">&nbsp;37&nbsp;</span></td>
@@ -629,7 +629,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">zele</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">10 Mrt 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">1</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://users.skynet.be/sky44052" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://users.skynet.be/sky44052" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;38&nbsp;</span></td>
@@ -749,7 +749,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">usa</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">18 Apr 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://corolla.realresult.us" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://corolla.realresult.us" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;50&nbsp;</span></td>
@@ -803,7 +803,7 @@ input.liteoption {
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

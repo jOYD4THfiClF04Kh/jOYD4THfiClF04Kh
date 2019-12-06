@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -284,7 +284,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Zo Okt 28, 2007 10:02 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=228&amp;highlight=#228">Nieuwe website KBF</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Oeps, de site heeft geen linkpagina meer. <br />Niet echt goed doordacht. of is dit een bewuste keuze?</span></td>
+	<td valign="top" class="row1"><span class="postbody">Oeps, de site heeft geen linkpagina meer. 
+<br />Niet echt goed doordacht. of is dit een bewuste keuze?</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=82&amp;highlight=" class="topictitle">Mont Blanc 2 meter hoger.</a></span></td>
@@ -326,7 +327,10 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Za Sep 01, 2007 12:25 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=209&amp;highlight=#209">Huttenservice</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Onlangs kreeg ik van Gui Lemmens onderstaande mail:<br />“Waar is de tijd dat berghutten nog ten dienste stonden van de bergliefhebber ?<br />Het commerciële spook is nu ook boven de boomgrens gesignaleerd ! ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Onlangs kreeg ik van Gui Lemmens onderstaande mail:
+<br />“Waar is de tijd dat berghutten nog ten dienste stonden van de bergliefhebber ?
+<br />Het commerciële spook is nu ook boven de boomgrens gesignaleerd !
+ ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=64&amp;highlight=" class="topictitle">Waar staat dit kruis?</a></span></td>
@@ -350,11 +354,16 @@ input.liteoption {
 	  <br />
 	  <span class="postdetails">Antwoorden: <b>2</b><br />
 	  Bekeken: <b>577</b></span><br />
-	</td>
+	</td>https://
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=15" class="postdetails">Test jouw kennis</a></b>&nbsp; &nbsp;Geplaatst: Vr Aug 10, 2007 3:25 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=200&amp;highlight=#200">Mont Blanc</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Proficiat Steven,<br /><br />Het is inderdaad de Mont Blanc.<br />Hier de volledige foto:<br /><br />http://www.hutten.be/images/fora/mont-blanc.jpg</span></td>
+	<td valign="top" class="row1"><span class="postbody">Proficiat Steven,
+<br />
+<br />Het is inderdaad de Mont Blanc.
+<br />Hier de volledige foto:
+<br />
+<br />http://www.hutten.be/images/fora/mont-blanc.jpg</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=59&amp;highlight=" class="topictitle">Openbaar vervoer</a></span></td>
@@ -399,7 +408,7 @@ input.liteoption {
 	<td valign="top" class="row1"><span class="postbody">Hoe zou je een &quot;vorstiegwand&quot; vertalen?</span></td>
   </tr>
   <tr>
-	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=27&amp;highlight=" class="topictitle">Kinnhütte</a></span></td>
+	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=27&amp;highlight=" class="topictitle">Kinnhÿtte</a></span></td>
   </tr>
   <tr>
 	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=3">Joris</a></b></span><br />
@@ -407,10 +416,16 @@ input.liteoption {
 	  <span class="postdetails">Antwoorden: <b>2</b><br />
 	  Bekeken: <b>1216</b></span><br />
 	</td>
-	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Za Jun 16, 2007 9:50 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=187&amp;highlight=#187">Kinnhütte</a></b></span></td>
+	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Za Jun 16, 2007 9:50 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=187&amp;highlight=#187">Kinnhÿtte</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo Eugeen,<br /><br />Dank bij voorbaat.<br />Het email adres: info@hutten.be<br /><br />Vriendelijke groeten,<br />Joris</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo Eugeen,
+<br />
+<br />Dank bij voorbaat.
+<br />Het email adres: info@hutten.be
+<br />
+<br />Vriendelijke groeten,
+<br />Joris</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=67&amp;highlight=" class="topictitle">Economische definities</a></span></td>
@@ -424,27 +439,34 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=16" class="postdetails">Humor</a></b>&nbsp; &nbsp;Geplaatst: Zo Mei 20, 2007 6:40 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=170&amp;highlight=#170">Economische definities</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">De verschillende economische systemen uitgelegd aan de hand van koeien.<br /><br />*Socialisme* <br />Je hebt twee koeien en je geeft er één aan je buurman die geen koeien heeft. <br /><br />*Communisme* <br />Je hebt twee k ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">De verschillende economische systemen uitgelegd aan de hand van koeien.
+<br />
+<br />*Socialisme* 
+<br />Je hebt twee koeien en je geeft er één aan je buurman die geen koeien heeft. 
+<br />
+<br />*Communisme* 
+<br />Je hebt twee k ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=66&amp;highlight=" class="topictitle">Hoe vang je een berggeit?</a></span></td>
   </tr>
   <tr>
 	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=3">Joris</a></b></span><br />
-	  <br />
+	  <br />https://
 	  <span class="postdetails">Antwoorden: <b>0</b><br />
 	  Bekeken: <b>362</b></span><br />
 	</td>
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=16" class="postdetails">Humor</a></b>&nbsp; &nbsp;Geplaatst: Zo Mei 20, 2007 6:28 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=169&amp;highlight=#169">Hoe vang je een berggeit?</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Eenvoudig.<br />Je jaagt ze van de berg en vangt ze dan net als een gewone geit.</span></td>
+	<td valign="top" class="row1"><span class="postbody">Eenvoudig.
+<br />Je jaagt ze van de berg en vangt ze dan net als een gewone geit.</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=65&amp;highlight=" class="topictitle">Welke berg is dit?</a></span></td>
   </tr>
   <tr>
-	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=3">Joris</a></b></span><br />
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amphttps://oris</a></b></span><br />
 	  <br />
 	  <span class="postdetails">Antwoorden: <b>2</b><br />
 	  Bekeken: <b>577</b></span><br />
@@ -452,7 +474,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=15" class="postdetails">Test jouw kennis</a></b>&nbsp; &nbsp;Geplaatst: Zo Mei 20, 2007 6:20 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=168&amp;highlight=#168">Welke berg is dit?</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Een foto van een bergtop werd in stukjes geknipt. Weet jij nog welke berg op de foto stond?<br /><br />http://www.hutten.be/images/puzzel.jpg</span></td>
+	<td valign="top" class="row1"><span class="postbody">Een foto van een bergtop werd in stukjes geknipt. Weet jij nog welke berg op de foto stond?
+<br />
+<br />http://www.hutten.be/images/puzzel.jpg</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=64&amp;highlight=" class="topictitle">Waar staat dit kruis?</a></span></td>
@@ -466,7 +490,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=15" class="postdetails">Test jouw kennis</a></b>&nbsp; &nbsp;Geplaatst: Zo Mei 20, 2007 6:17 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=167&amp;highlight=#167">Waar staat dit kruis?</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ergens aan een berghut staat dit kruis. Weet jij aan welke hut?<br /><br />http://www.hutten.be/images/kruis.jpg</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ergens aan een berghut staat dit kruis. Weet jij aan welke hut?
+<br />
+<br />http://www.hutten.be/images/kruis.jpg</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -479,7 +505,7 @@ input.liteoption {
 	<td align="right" valign="top" nowrap="nowrap"><span class="nav">Ga naar pagina <b>1</b>, <a href="search.php?search_id=414575292&amp;start=15">2</a>&nbsp;&nbsp;<a href="search.php?search_id=414575292&amp;start=15">Volgende</a></span><br /><span class="gensmall">Tijden zijn in GMT - 8 uur</span></td>
   </tr>
 </table>
-
+https://https://
 <table width="100%" cellspacing="2" border="0" align="center">
   <tr>
 	<td valign="top" align="right">

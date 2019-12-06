@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -270,7 +270,12 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Zo Apr 01, 2007 11:10 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=153&amp;highlight=#153">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Beste Frank,<br /><br /><br />Voorafgaand aan je bericht heb ik zitten googlenen met de trefwoorden 'Berliner Hohenweg', en de door jou vernoemde DAV-beschrijving teruggevonden.<br /><br />Een ander, zeer mooi en uitgebr ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Beste Frank,
+<br />
+<br />
+<br />Voorafgaand aan je bericht heb ik zitten googlenen met de trefwoorden 'Berliner Hohenweg', en de door jou vernoemde DAV-beschrijving teruggevonden.
+<br />
+<br />Een ander, zeer mooi en uitgebr ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -284,7 +289,12 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Wo Feb 28, 2007 11:41 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=138&amp;highlight=#138">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Beste Rob,<br /><br />Ook bedankt voor je info.<br />Wij plannen maar een deel van de Berliner route te doen, namelijk het gedeelte tussen de Furtschalghaus en de Kasselerhutte.<br /><br />Ook de periode is nu in juli va ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Beste Rob,
+<br />
+<br />Ook bedankt voor je info.
+<br />Wij plannen maar een deel van de Berliner route te doen, namelijk het gedeelte tussen de Furtschalghaus en de Kasselerhutte.
+<br />
+<br />Ook de periode is nu in juli va ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -298,7 +308,12 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Do Feb 22, 2007 11:12 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=135&amp;highlight=#135">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Beste Koen,<br /><br /><br />Van harte bedankt voor je (ZEER uitgebreide) reactie.  Je kan je natuurlijk niet vroeg genoeg informeren.<br /><br />Mijn eerste gedacht was deze tocht in volle zomer te organiseren, maar mij ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Beste Koen,
+<br />
+<br />
+<br />Van harte bedankt voor je (ZEER uitgebreide) reactie.  Je kan je natuurlijk niet vroeg genoeg informeren.
+<br />
+<br />Mijn eerste gedacht was deze tocht in volle zomer te organiseren, maar mij ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -312,7 +327,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Di Feb 20, 2007 9:15 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=129&amp;highlight=#129">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Beste bergliefhebbers,<br /><br />Totaal nieuw hier op het forum,  zou ik graag wat (misschien wat et evidente) vragen willen stellen. <br /><br />Reeds over heel wat zomerwandelingervaring in de alpen beschikkend, z ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Beste bergliefhebbers,
+<br />
+<br />Totaal nieuw hier op het forum,  zou ik graag wat (misschien wat et evidente) vragen willen stellen. 
+<br />
+<br />Reeds over heel wat zomerwandelingervaring in de alpen beschikkend, z ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -332,7 +351,7 @@ input.liteoption {
 <form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
 	<tr>
 		<td nowrap="nowrap"><span class="gensmall">Ga naar:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Kies een forum</option><option value="-1">&nbsp;</option><option value="-1">Over het forum</option><option value="-1">----------------</option><option value="1">Hoe werkt dit forum?</option><option value="17">Nog vragen over dit forum?</option><option value="-1">&nbsp;</option><option value="-1">Landeninformatie</option><option value="-1">----------------</option><option value="2">Duitsland</option><option value="3">Frankrijk</option><option value="4">Italië</option><option value="5">Oostenrijk</option><option value="6">Spanje</option><option value="7">Zwitserland</option><option value="8">Andere landen</option><option value="-1">&nbsp;</option><option value="-1">Berghutten</option><option value="-1">----------------</option><option value="9">Ervaringen</option><option value="10">Routebeschrijvingen</option><option value="-1">&nbsp;</option><option value="-1">Bergtoppen</option><option value="-1">----------------</option><option value="11">Voor de klimmers</option><option value="-1">&nbsp;</option><option value="-1">Diversen</option><option value="-1">----------------</option><option value="12">Reisverslagen</option><option value="13">Vakantieverblijven</option><option value="14">Actualiteit</option><option value="15">Test jouw kennis</option><option value="16">Humor</option><option value="18">Café</option></select><input type="hidden" name="sid" value="81f07dc32266f345e0d48b960060f257" />&nbsp;<input type="submit" value="OK" class="liteoption" /></span></td>
-	</tr>
+	</tr>https://https://
 </table></form>
 
 </td>

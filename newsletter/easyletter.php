@@ -5,4 +5,4 @@ Hier kan je een gratis abonnement nemen op Huttenmail of je abonnement stop zett
 <input type="radio" name="action" value="delete">verwijderen<br>
 <input type="submit" value="verzenden">
 </form></div>
-<!-- Easyletter v1.1 Newsletterscript by Chris Heilmann, get yours @ http://www.onlinetools.org/easyletter/ -->
+<!-- Easyletter v1.1 Newsletterscript by Chris Heilmann, get yours @ https://www.onlinetools.org/easyletter/ -->

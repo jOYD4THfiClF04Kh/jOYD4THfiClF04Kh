@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -270,7 +270,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Ma Feb 05, 2007 11:36 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=120&amp;highlight=#120">Wegenvignet in België</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">ja inderdaag, in zwitserland moet je betalen omdat dat land zijn neutraliteit behoud en niet bij de EU aansluit.<br />doorheen EU-landen moeten we toch vrij kunnen rijden, eigenlijk is de péage in frankri ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">ja inderdaag, in zwitserland moet je betalen omdat dat land zijn neutraliteit behoud en niet bij de EU aansluit.
+<br />doorheen EU-landen moeten we toch vrij kunnen rijden, eigenlijk is de péage in frankri ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=49&amp;highlight=" class="topictitle">Wegenvignet in België</a></span></td>
@@ -284,7 +285,10 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Zo Feb 04, 2007 4:48 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=118&amp;highlight=#118">Wegenvignet in België</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">hmm eerste keer dat ik hiervan iets hoor.<br /><br />ik rij zelf nog niet met de auto maar ik kan wel zeggen dat het ronduit een belachelijke regel is.<br />alles draait goed qua wegenonderhoud heb ik de indruk,  ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">hmm eerste keer dat ik hiervan iets hoor.
+<br />
+<br />ik rij zelf nog niet met de auto maar ik kan wel zeggen dat het ronduit een belachelijke regel is.
+<br />alles draait goed qua wegenonderhoud heb ik de indruk,  ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=46&amp;highlight=" class="topictitle">Gran Paradiso</a></span></td>
@@ -298,7 +302,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=4" class="postdetails">Italië</a></b>&nbsp; &nbsp;Geplaatst: Vr Feb 02, 2007 10:35 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=115&amp;highlight=#115">Gran Paradiso</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">woohoo <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" /><br />dankjewel filip!<br /><br />hoe ben je daar trouwens geraakt?<br />als ik zo zit te kijken kan ik 3 maand op voorhand pas tgv reserveren en dan weet ik niet wanneer ik aankom enzo om de tocht te beginn ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">woohoo <img src="images/smiles/icon_biggrin.gif" alt="Very Happy" border="0" />
+<br />dankjewel filip!
+<br />
+<br />hoe ben je daar trouwens geraakt?
+<br />als ik zo zit te kijken kan ik 3 maand op voorhand pas tgv reserveren en dan weet ik niet wanneer ik aankom enzo om de tocht te beginn ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=46&amp;highlight=" class="topictitle">Gran Paradiso</a></span></td>
@@ -326,7 +334,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Zo Jan 21, 2007 12:11 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=103&amp;highlight=#103">Is de mens oorzaak van de opwarming van de aarde.</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">dan zou ik graag eens weten wat degenen die er anders over denken reeds hebben gerealiseerd (behalve sensibiliseren)<br /><br />want bij mijn weten zijn er nog geen globaal succesvolle pogingen ondernomen om  ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">dan zou ik graag eens weten wat degenen die er anders over denken reeds hebben gerealiseerd (behalve sensibiliseren)
+<br />
+<br />want bij mijn weten zijn er nog geen globaal succesvolle pogingen ondernomen om  ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=43&amp;highlight=" class="topictitle">Is de mens oorzaak van de opwarming van de aarde.</a></span></td>
@@ -340,7 +350,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Zo Jan 21, 2007 10:21 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=101&amp;highlight=#101">Is de mens oorzaak van de opwarming van de aarde.</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">het ziet er wel een interessante reportage uit, qua onderwerp dan, maar verder dan een minuut of 5 (na de beelden van de overstromingen) ben ik gestopt met kijken.<br /><br />ik snap wat je bedoelt, de mens s ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">het ziet er wel een interessante reportage uit, qua onderwerp dan, maar verder dan een minuut of 5 (na de beelden van de overstromingen) ben ik gestopt met kijken.
+<br />
+<br />ik snap wat je bedoelt, de mens s ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=43&amp;highlight=" class="topictitle">Is de mens oorzaak van de opwarming van de aarde.</a></span></td>
@@ -354,7 +366,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Za Jan 20, 2007 3:14 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=99&amp;highlight=#99">Is de mens oorzaak van de opwarming van de aarde.</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">ik zal haar de fout zeker doorgeven lise <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /><br /><br />ik ben het met je eens dat het te snel warmer wordt, maar de natuur is zeer onvoorspelbaar. zoals ik al zei: duizenden parameters in een formule steken i ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">ik zal haar de fout zeker doorgeven lise <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" />
+<br />
+<br />ik ben het met je eens dat het te snel warmer wordt, maar de natuur is zeer onvoorspelbaar. zoals ik al zei: duizenden parameters in een formule steken i ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=47&amp;highlight=" class="topictitle">Zoek kletterpartner</a></span></td>
@@ -368,7 +382,15 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=11" class="postdetails">Voor de klimmers</a></b>&nbsp; &nbsp;Geplaatst: Za Jan 20, 2007 2:49 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=98&amp;highlight=#98">Zoek kletterpartner</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">geïntresseerd wel, maar volgende dingen ontbreken bij mij:<br /><br />-toestemming ouders<br />-tijd<br />-geld<br />-ervaring<br />-...<br /><br />jammer dus <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /> misschien binnen 10 jaar <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /></span></td>
+	<td valign="top" class="row1"><span class="postbody">geïntresseerd wel, maar volgende dingen ontbreken bij mij:
+<br />
+<br />-toestemming ouders
+<br />-tijd
+<br />-geld
+<br />-ervaring
+<br />-...
+<br />
+<br />jammer dus <img src="images/smiles/icon_sad.gif" alt="Sad" border="0" /> misschien binnen 10 jaar <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /></span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=43&amp;highlight=" class="topictitle">Is de mens oorzaak van de opwarming van de aarde.</a></span></td>
@@ -382,7 +404,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Vr Jan 19, 2007 2:54 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=93&amp;highlight=#93">Is de mens oorzaak van de opwarming van de aarde.</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">we zien dit voor t moment op school:<br /><br />we bevinden zich nu wel degelijk in het quartair, het pleistoceen<br />dat is een periode van ijstijden (glacialen) en tussenijstijden (interglacialen)<br />deze period ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">we zien dit voor t moment op school:
+<br />
+<br />we bevinden zich nu wel degelijk in het quartair, het pleistoceen
+<br />dat is een periode van ijstijden (glacialen) en tussenijstijden (interglacialen)
+<br />deze period ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=47&amp;highlight=" class="topictitle">Zoek kletterpartner</a></span></td>
@@ -396,7 +422,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=11" class="postdetails">Voor de klimmers</a></b>&nbsp; &nbsp;Geplaatst: Vr Jan 19, 2007 2:26 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=92&amp;highlight=#92">Zoek kletterpartner</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">kletter ? :S<br /><br />waarom voel ik mij nu dom ? <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /></span></td>
+	<td valign="top" class="row1"><span class="postbody">kletter ? :S
+<br />
+<br />waarom voel ik mij nu dom ? <img src="images/smiles/icon_razz.gif" alt="Razz" border="0" /></span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=43&amp;highlight=" class="topictitle">Is de mens oorzaak van de opwarming van de aarde.</a></span></td>
@@ -424,7 +452,10 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=4" class="postdetails">Italië</a></b>&nbsp; &nbsp;Geplaatst: Wo Jan 17, 2007 9:11 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=87&amp;highlight=#87">Gran Paradiso</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">hey mensen<br /><br />mijn eerste gedacht was een tocht dwars door de alpen, maar dan was mss net iets te hoog gegrepen met een onervaren groep.<br />daarom is mijn oog nu gevallen op het nationaal park van gran  ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">hey mensen
+<br />
+<br />mijn eerste gedacht was een tocht dwars door de alpen, maar dan was mss net iets te hoog gegrepen met een onervaren groep.
+<br />daarom is mijn oog nu gevallen op het nationaal park van gran  ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -432,7 +463,7 @@ input.liteoption {
 </table>
 
 <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
-  <tr>
+  <tr>https://https://
 	<td align="left" valign="top"><span class="nav">Pagina <b>1</b> van <b>1</b></span></td>
 	<td align="right" valign="top" nowrap="nowrap"><span class="nav"></span><br /><span class="gensmall">Tijden zijn in GMT - 8 uur</span></td>
   </tr>

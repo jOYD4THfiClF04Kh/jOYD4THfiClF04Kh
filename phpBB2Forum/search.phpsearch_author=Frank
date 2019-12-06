@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -270,7 +270,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=2" class="postdetails">Duitsland</a></b>&nbsp; &nbsp;Geplaatst: Zo Apr 01, 2007 11:53 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=155&amp;highlight=#155">Wandelen met een baby</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hoi,<br /><br />Ik ben op zoek naar een plek in duitsland waar ik goed kan wandelen met een baby. We denken er op dit moment aan om met een wandelwagen te gaan, mogelijk dat dit een draagzak wordt dat zal het ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hoi,
+<br />
+<br />Ik ben op zoek naar een plek in duitsland waar ik goed kan wandelen met een baby. We denken er op dit moment aan om met een wandelwagen te gaan, mogelijk dat dit een draagzak wordt dat zal het ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=56&amp;highlight=" class="topictitle">Wanneer trek jij de bergen in?</a></span></td>
@@ -284,7 +286,10 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Zo Apr 01, 2007 11:50 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=154&amp;highlight=#154">Wanneer in de bergen</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo Joris,<br /><br />Het antwoord is eenvoudig: het liefst zo vaak mogelijk  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> <br />Wat concreter: doorgaans in de zomer, lekker wandelen, wat klimmen en klauteren. In de winter is het natuurlijk ook mooi ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo Joris,
+<br />
+<br />Het antwoord is eenvoudig: het liefst zo vaak mogelijk  <img src="images/smiles/icon_lol.gif" alt="Laughing" border="0" /> 
+<br />Wat concreter: doorgaans in de zomer, lekker wandelen, wat klimmen en klauteren. In de winter is het natuurlijk ook mooi ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -298,7 +303,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Wo Mrt 21, 2007 1:12 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=151&amp;highlight=#151">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo Marnix,<br /><br />Een vertraagde reactie, enals ik je plannen goed heb gelezen nog niet te laat. Vanuit de DAV is er een uitgebreide beschrijving van de berliner hohenweg in PDF-format. Ik weet niet of ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo Marnix,
+<br />
+<br />Een vertraagde reactie, enals ik je plannen goed heb gelezen nog niet te laat. Vanuit de DAV is er een uitgebreide beschrijving van de berliner hohenweg in PDF-format. Ik weet niet of ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=45&amp;highlight=" class="topictitle">Reservaties</a></span></td>
@@ -312,7 +319,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Wo Mrt 21, 2007 1:06 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=150&amp;highlight=#150">Eten in de hutten</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo Timme,<br /><br />Ik heb een kleine aanvulling op Joris: eten uit het dal meenemen is natuurlijk prima. Houdt er echter wel rekening mee wat je meeneemt! Jaren terug op onze eerste huttentrektocht brood ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo Timme,
+<br />
+<br />Ik heb een kleine aanvulling op Joris: eten uit het dal meenemen is natuurlijk prima. Houdt er echter wel rekening mee wat je meeneemt! Jaren terug op onze eerste huttentrektocht brood ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -342,7 +351,7 @@ input.liteoption {
 
 <div align="center"><span class="copyright"><br /><br />
 <!--
-	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	We request you retahttps://full copyright notice below including the link to www.phpbb.com.https://
 	This not only gives respect to the large amount of time given freely by the developers
 	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
 	reason) retain the full copyright we request you at least leave in place the

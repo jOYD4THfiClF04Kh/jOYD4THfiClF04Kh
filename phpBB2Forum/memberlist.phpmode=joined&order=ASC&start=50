@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -319,7 +319,7 @@ input.liteoption {
 	  <td class="row2" align="center" valign="middle"><span class="gen">usa</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gensmall">18 Apr 2007</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row2" align="center">&nbsp;<a href="http://corolla.realresult.us" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center">&nbsp;<a href="https://corolla.realresult.us" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row1" align="center"><span class="gen">&nbsp;57&nbsp;</span></td>
@@ -339,7 +339,7 @@ input.liteoption {
 	  <td class="row2" align="center" valign="middle"><span class="gen">Almere</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gensmall">03 Mei 2007</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row2" align="center">&nbsp;<a href="http://mmbaas.homeip.net" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center">&nbsp;<a href="https://mmbaas.homeip.net" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row1" align="center"><span class="gen">&nbsp;59&nbsp;</span></td>
@@ -349,7 +349,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">03 Mei 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://pharmacyforlife.com" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://pharmacyforlife.com" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;60&nbsp;</span></td>
@@ -409,7 +409,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">usa</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">18 Mei 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://musikmany.ch/digits/index.html" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://musikmany.ch/digits/index.html" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;66&nbsp;</span></td>
@@ -449,7 +449,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">Lille</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">24 Mei 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">5</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://ijsberenhoekouderhoeliever.skynetblogs.be/archive-week/2005-40" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://ijsberenhoekouderhoeliever.skynetblogs.be/archive-week/2005-40" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;70&nbsp;</span></td>
@@ -559,7 +559,7 @@ input.liteoption {
 	  <td class="row2" align="center" valign="middle"><span class="gen">&nbsp;</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gensmall">26 Jun 2007</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row2" align="center">&nbsp;<a href="http://www.airborneski.be" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center">&nbsp;<a href="https://www.airborneski.be" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row1" align="center"><span class="gen">&nbsp;81&nbsp;</span></td>
@@ -599,7 +599,7 @@ input.liteoption {
 	  <td class="row2" align="center" valign="middle"><span class="gen">USA</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gensmall">09 Jul 2007</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row2" align="center">&nbsp;<a href="http://www.1portaladvertisers.com/general-health/low-cost-levitra-online" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center">&nbsp;<a href="https://www.1portaladvertisers.com/general-health/low-cost-levitra-online" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row1" align="center"><span class="gen">&nbsp;85&nbsp;</span></td>
@@ -629,7 +629,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">Toronto</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">27 Jul 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://www.aurar.info" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://www.aurar.info" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;88&nbsp;</span></td>
@@ -639,7 +639,7 @@ input.liteoption {
 	  <td class="row2" align="center" valign="middle"><span class="gen">Uganda</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gensmall">30 Jul 2007</span></td>
 	  <td class="row2" align="center" valign="middle"><span class="gen">0</span></td>
-	  <td class="row2" align="center">&nbsp;<a href="http://cluegain.wizhoo.com/site_map.html" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row2" align="center">&nbsp;<a href="https://cluegain.wizhoo.com/site_map.html" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row1" align="center"><span class="gen">&nbsp;89&nbsp;</span></td>
@@ -669,7 +669,7 @@ input.liteoption {
 	  <td class="row1" align="center" valign="middle"><span class="gen">Zuid-Holland</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gensmall">07 Aug 2007</span></td>
 	  <td class="row1" align="center" valign="middle"><span class="gen">1</span></td>
-	  <td class="row1" align="center">&nbsp;<a href="http://oranjegevaar.spaces.live.com/" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
+	  <td class="row1" align="center">&nbsp;<a href="https://oranjegevaar.spaces.live.com/" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>&nbsp;</td>
 	</tr>
 	<tr>
 	  <td class="row2" align="center"><span class="gen">&nbsp;92&nbsp;</span></td>
@@ -803,7 +803,7 @@ input.liteoption {
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

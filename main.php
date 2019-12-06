@@ -204,7 +204,7 @@ showImage();
 <td height=250></td>
 <td width=222 height=250 valign=top align=left>
 
-<div><h1 style="font: bold 10pt Arial, Helvetica, sans-serif; margin: 0; padding: 0;"></h1><p style="font:  italic 10pt Arial, Helvetica, sans-serif; margin: 5px 0 0 20px; padding: 0;">"Herzlichen Glückwunsch zu dieser Seite. Eine der besten die ich bisher gesehen habe."   (Fred Schumacher)</p><p style="font: normal 10pt Arial, Helvetica, sans-serif; margin: 5px 0 0 20px; padding: 0;"><a href="http://www.hutten.be/vgb-nl/index.php">naar het gastenboek...</a></p></div><p align=center>
+<div><h1 style="font: bold 10pt Arial, Helvetica, sans-serif; margin: 0; padding: 0;"></h1><p style="font:  italic 10pt Arial, Helvetica, sans-serif; margin: 5px 0 0 20px; padding: 0;">"Herzlichen Glückwunsch zu dieser Seite. Eine der besten die ich bisher gesehen habe."   (Fred Schumacher)</p><p style="font: normal 10pt Arial, Helvetica, sans-serif; margin: 5px 0 0 20px; padding: 0;"><a hrefhttps:////www.hutten.be/vgb-nl/index.php">naar het gastenboek...</a></p></div><p align=center>
 
 
 
@@ -236,12 +236,12 @@ showImage();
 <p align=left><font face="Arial" color=#000000 size=2>
 
 <!--[if IE]>
-<a class="chlnk" style="cursor:hand;font-weight:bold;color:blue;" HREF onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.hutten.be');">Klik hier om van hutten.be uw opstartpagina te maken!</a>
+<a class="chlnk" style="cursor:hand;font-weight:bold;color:blue;" HREF onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.hutten.be');">Klik hier om van hutten.be uw opstartpagina te maken!</a>
 <br>
 <![endif]-->
 <br>
 <b>
-<a href="javascript:newWindow('scripts/sendemail.php?http://www.hutten.be','email',400,300,'')">
+<a href="javascript:newWindow('scripts/sendemail.php?https://www.hutten.be','email',400,300,'')">
 Vertel een vriend over deze site.</a> </b></font>
 <b>
 <font face="Arial" size="1">

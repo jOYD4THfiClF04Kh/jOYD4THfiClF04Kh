@@ -1,5 +1,5 @@
 <br />
-<b>Warning</b>:  fopen(data/FB/www.freytagberndt.at_shop_list.php?id=755.dat) [<a href='http://www.php.net/function.fopen'>function.fopen</a>]: failed to create stream: Permission denied in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>57</b><br />
+<b>Warning</b>:  fopen(data/FB/www.freytagberndt.at_shop_list.php?id=755.dat) [<a href='https://www.php.net/function.fopen'>function.fopen</a>]: failed to create stream: Permission denied in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>57</b><br />
 <br />
 <b>Warning</b>:  fgets(): supplied argument is not a valid stream resource in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>58</b><br />
 <br />

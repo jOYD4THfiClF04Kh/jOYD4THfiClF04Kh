@@ -21,19 +21,19 @@
     </head>
     <body >
         <!--[if lt IE 7]>
-            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> or <a href="https://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
         <div id="small-screens-menu" class="clearfix">
-                <a href="http://www.site5.com/"><img src="https://www.site5.com/img/logo.png" alt="Site5 Web Hosting Built For Designers &amp; Developers"></a>
+                <a href="https://www.site5.com/"><img src="https://www.site5.com/img/logo.png" alt="Site5 Web Hosting Built For Designers &amp; Developers"></a>
                 <a href="#" class="topmenu-button"><strong>MENU</strong></a>
                     <ul>
-                        <li><a href="http://www.site5.com/">Home</a></li>
-                        <li><a href="http://www.site5.com/hosting/web/">Web Hosting</a></li>
-                        <li><a href="http://www.site5.com/resellers/web/">Reseller Hosting</a></li>
-                        <li><a href="http://www.site5.com/vps/">Fully Managed VPS</a></li>
-                        <li><a href="http://www.site5.com/other-products/">Other Products</a></li>
-                        <li><a href="http://www.site5.com/about/">About</a></li>
-                        <li><a href="http://www.site5.com/contact/">Contact Us</a></li>
+                        <li><a href="https://www.site5.com/">Home</a></li>
+                        <li><a href="https://www.site5.com/hosting/web/">Web Hosting</a></li>
+                        <li><a href="https://www.site5.com/resellers/web/">Reseller Hosting</a></li>
+                        <li><a href="https://www.site5.com/vps/">Fully Managed VPS</a></li>
+                        <li><a href="https://www.site5.com/other-products/">Other Products</a></li>
+                        <li><a href="https://www.site5.com/about/">About</a></li>
+                        <li><a href="https://www.site5.com/contact/">Contact Us</a></li>
                         <li><a href="https://backstage.site5.com/" class="ajaxdialog clientlogin">Client Login</a></li>
                     </ul>            
         </div>
@@ -43,18 +43,18 @@
             <div class="block">
                 <!-- begin .logo -->
                 <div class="logo">
-                    <h1><a href="http://www.site5.com/"><img src="https://www.site5.com/img/logo.png" alt="Site5 Web Hosting"></a>
-                        <a href="http://www.site5.com/" class="ajaxdialog"><span>Built For Designers &amp; Developers</span></a>
+                    <h1><a href="https://www.site5.com/"><img src="https://www.site5.com/img/logo.png" alt="Site5 Web Hosting"></a>
+                        <a href="https://www.site5.com/" class="ajaxdialog"><span>Built For Designers &amp; Developers</span></a>
                     </h1>
                 </div>
                 <!-- end .logo -->
                 <!-- begin .top-menu -->
                 <nav class="top-menu">
                     <ul>
-                        <li><a href="http://www.site5.com/support/" class="support"><span class="icon icon-ico_support_top"></span>Support</a></li>
-                        <li><a href="http://www.site5.com/contact/" class="ajaxdialog email"><span class="icon icon-ico_envelope"></span>Email Us</a></li>
-                        <li><a href="http://www.site5.com/contact/" class="ajaxdialog chat"><span class="icon icon-ico_chat"></span>Chat With Us</a></li>
-                        <li><a href="http://www.site5.com/" class="ajaxdialog phone"><span class="icon icon-ico_phone"></span>+1-888-748-3526</a></li>
+                        <li><a href="https://www.site5.com/support/" class="support"><span class="icon icon-ico_support_top"></span>Support</a></li>
+                        <li><a href="https://www.site5.com/contact/" class="ajaxdialog email"><span class="icon icon-ico_envelope"></span>Email Us</a></li>
+                        <li><a href="https://www.site5.com/contact/" class="ajaxdialog chat"><span class="icon icon-ico_chat"></span>Chat With Us</a></li>
+                        <li><a href="https://www.site5.com/" class="ajaxdialog phone"><span class="icon icon-ico_phone"></span>+1-888-748-3526</a></li>
                         <li><a href="https://backstage.site5.com" class="ajaxdialog clientlogin"><span class="icon icon-ico_user"></span>Client Login</a></li>
                     </ul>
                 </nav>
@@ -62,16 +62,16 @@
                 <!-- begin .main-menu -->
                 <nav class="main-menu">
                     <ul>
-                        <li><a href="http://www.site5.com/" class="active"> Home</a></li>
-                        <li><a href="http://www.site5.com/hosting/web/">Web Hosting</a></li>
-                        <li><a href="http://www.site5.com/resellers/web/">Reseller Hosting</a></li>
-                        <li><a href="http://www.site5.com/vps/">Fully Managed VPS</a></li>
-                        <li class="other-products"><a href="http://www.site5.com/other-products/" >Other Products</a>
+                        <li><a href="https://www.site5.com/" class="active"> Home</a></li>
+                        <li><a href="https://www.site5.com/hosting/web/">Web Hosting</a></li>
+                        <li><a href="https://www.site5.com/resellers/web/">Reseller Hosting</a></li>
+                        <li><a href="https://www.site5.com/vps/">Fully Managed VPS</a></li>
+                        <li class="other-products"><a href="https://www.site5.com/other-products/" >Other Products</a>
                             <ul>
-                                <li><a href="http://www.site5.com/vps/unmanaged/">Unmanaged VPS</a></li>
-                                <li><a href="http://www.site5.com/vps/cloud/">Cloud VPS</a></li>
-                                <li><a href="http://www.site5.com/hosting/cloud/">Cloud Web Hosting</a></li>
-                                <li><a href="http://www.site5.com/resellers/cloud/">Cloud Reseller Hosting</a></li>
+                                <li><a href="https://www.site5.com/vps/unmanaged/">Unmanaged VPS</a></li>
+                                <li><a href="https://www.site5.com/vps/cloud/">Cloud VPS</a></li>
+                                <li><a href="https://www.site5.com/hosting/cloud/">Cloud Web Hosting</a></li>
+                                <li><a href="https://www.site5.com/resellers/cloud/">Cloud Reseller Hosting</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -112,55 +112,55 @@
                 <div class="footer-box site-links">
                     <h4>Site Links</h4>
                     <ul>
-                        <li><a href="http://www.site5.com/contact/">Contact Us</a></li>
+                        <li><a href="https://www.site5.com/contact/">Contact Us</a></li>
                        
-                        <li><a href="http://www.site5.com/about/">About Site5</a></li>
+                        <li><a href="https://www.site5.com/about/">About Site5</a></li>
                         
-                        <li><a href="http://www.site5.com/support/">Support</a></li>
+                        <li><a href="https://www.site5.com/support/">Support</a></li>
 
-                        <li><a href="http://www.site5.com/about/careers/">Careers</a></li>
+                        <li><a href="https://www.site5.com/about/careers/">Careers</a></li>
                         
-                        <li><a href="http://www.site5.com/blog/">Our Blog</a></li>
+                        <li><a href="https://www.site5.com/blog/">Our Blog</a></li>
 
-                        <li><a href="http://www.site5.com/about/thirty-day-free-trial/">Free Trial</a></li>
+                        <li><a href="https://www.site5.com/about/thirty-day-free-trial/">Free Trial</a></li>
                     </ul>
                     <ul>
                        <li><a class="ajaxdialog" title="Backstage Login" href="https://backstage.site5.com/">Client Login</a></li>
-                       <li><a href="http://www.site5.com/affiliates/">Affiliates</a></li>
-                       <li><a href="http://www.site5.com/about/coupons-and-specials/">Site5 Coupons</a></li>
-                       <li><a href="http://www.shopperapproved.com/certificates/www.site5.com/">Site5 Reviews</a></li>
+                       <li><a href="https://www.site5.com/affiliates/">Affiliates</a></li>
+                       <li><a href="https://www.site5.com/about/coupons-and-specials/">Site5 Coupons</a></li>
+                       <li><a href="https://www.shopperapproved.com/certificates/www.site5.com/">Site5 Reviews</a></li>
                     </ul>
                 </div>
                 <div class="footer-box hosting">
                     <h4>Hosting Services</h4>
                     <ul>
                         <li><span class="title">WEB HOSTING</span></li>
-                        <li><a href="http://www.site5.com/hosting/web/">Web Hosting</a></li>
-                        <li><a href="http://www.site5.com/hosting/cloud/">Cloud Web Hosting</a></li>
+                        <li><a href="https://www.site5.com/hosting/web/">Web Hosting</a></li>
+                        <li><a href="https://www.site5.com/hosting/cloud/">Cloud Web Hosting</a></li>
                     </ul>
                     <ul>
                         <li><span class="title">RESELLER HOSTING</span></li>
-                        <li><a href="http://www.site5.com/resellers/web/">Reseller Hosting</a></li>
-                        <li><a href="http://www.site5.com/resellers/cloud/">Cloud Reseller Hosting</a></li>
+                        <li><a href="https://www.site5.com/resellers/web/">Reseller Hosting</a></li>
+                        <li><a href="https://www.site5.com/resellers/cloud/">Cloud Reseller Hosting</a></li>
                     </ul>
                     <ul>
                         <li><span class="title">VIRTUAL SERVERS</span></li>
-                        <li><a href="http://www.site5.com/vps/normal/">Fully Managed VPS</a></li>
-                        <li><a href="http://www.site5.com/vps/unmanaged/">Unmanaged VPS</a></li>
-                        <li><a href="http://www.site5.com/vps/cloud/">Cloud VPS</a></li>
+                        <li><a href="https://www.site5.com/vps/normal/">Fully Managed VPS</a></li>
+                        <li><a href="https://www.site5.com/vps/unmanaged/">Unmanaged VPS</a></li>
+                        <li><a href="https://www.site5.com/vps/cloud/">Cloud VPS</a></li>
                     </ul>
                 </div>
                 <div class="footer-box copyright">
-                     <a href="http://www.site5.com/" title="Home"><img src="https://www.site5.com/img/logo_footer.png" alt="Site5" title="Home"></a><br> 
+                     <a href="https://www.site5.com/" title="Home"><img src="https://www.site5.com/img/logo_footer.png" alt="Site5" title="Home"></a><br> 
                     © Copyright 1999-2016 Site5.com<br>
                     All rights reserved.<br> 
-                    <a href="http://www.site5.com/legal/">Legal</a>&nbsp; / &nbsp;<a href="http://www.site5.com/legal/privacy-policy/">Privacy Policy</a>
+                    <a href="https://www.site5.com/legal/">Legal</a>&nbsp; / &nbsp;<a href="https://www.site5.com/legal/privacy-policy/">Privacy Policy</a>
                     <ul class="social">
-                        <li><a href="http://twitter.com/site5" class="twitter" title="Follow Us on Twitter!"></a></li>
-                        <li><a href="http://www.facebook.com/site5" class="facebook" title="Join Us on Facebook!"></a></li>
+                        <li><a href="https://twitter.com/site5" class="twitter" title="Follow Us on Twitter!"></a></li>
+                        <li><a href="https://www.facebook.com/site5" class="facebook" title="Join Us on Facebook!"></a></li>
                         <li><a href="https://plus.google.com/+site5" class="google" title="Join Us on Google+!"></a></li>
-                        <li><a href="http://www.pinterest.com/site5/" class="pinterest" title="Join Us on Pinterest!"></a></li>
-                        <li><a href="http://github.com/site5" class="github" title="Fork Us on GitHub!"></a></li>
+                        <li><a href="https://www.pinterest.com/site5/" class="pinterest" title="Join Us on Pinterest!"></a></li>
+                        <li><a href="https://github.com/site5" class="github" title="Fork Us on GitHub!"></a></li>
                     </ul>
                 </div>
             </div>
@@ -173,7 +173,7 @@
 		if (document.location.protocol == "https:") {
 			var ssl = "https://";
 		} else {
-			var ssl = "http://";
+			var ssl = "https://";
 		}
 		document.write('<img src="' + ssl + 'gk.site5.com/img.php?t=305" width="1" height="1" />');
 		</script>

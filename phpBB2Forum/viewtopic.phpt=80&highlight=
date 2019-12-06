@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -300,7 +300,7 @@ input.liteoption {
 			<tr>
 				<td colspan="2"><span class="postbody">Everest toestanden op de Mont Blanc: een schoonmaakploeg heeft onlangs honderden kilo’s zwerfvuil van de hoogste top van de Alpen gehaald. Daarnaast wordt deze berg meer en meer gebruikt, of moet het misbruikt zijn, voor commerciële doeleinden. Zo werd de top nog niet zolang geleden rood gekleurd, en vrij recent een bubbelbad op de top geplaatst. Verre expedities worden gesponsord en dat je op de top een foto neemt met een wimpel waarop de naam van je sponsor staat, tot daar aan toe, maar een bubbelbad op de top van de Mont Blanc? Is dat niet wat  over de top? Of denk jij dat zoiets moet kunnen?
 <br />
-<img src="http://www.hutten.be/images/fora/jaccuzi.jpg" border="0" /></span><span class="gensmall"></span></td>
+<img src="https://www.hutten.be/images/fora/jaccuzi.jpg" border="0" /></span><span class="gensmall"></span></td>
 			</tr>
 		</table></td>
 	</tr>
@@ -372,7 +372,7 @@ input.liteoption {
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

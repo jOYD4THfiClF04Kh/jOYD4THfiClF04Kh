@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -485,7 +485,7 @@ input.liteoption {
 		<td class="spaceRow" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
 	</tr>
 	<tr>
-		<td class="row2" align="left" valign="top"><span class="postbody"><a name="24"></a><b>Kan ik afbeeldingen plaatsen?</b></span><br /><span class="postbody">Afbeeldingen kunnen inderdaad worden getoond in je berichten. Echter, er is momenteel geen functie om afbeeldingen te uploaden naar dit forum. Daarom moet je een link plaatsen naar een afbeelding opgeslagen op een openbaar toegankelijke webserver, bijvoorbeeld http://www.een-onbekende-plaats.net/mijn-foto.gif. Je kan niet linken naar afbeeldingen opgeslagen op je eigen PC (tenzij het een openbaar toegankelijke server is) noch afbeeldingen opgeslagen op beveiligde locaties, zoals Hotmail- of Yahoo-mailboxen, sites met wachtwoordbeveiliging, enz. Gebruik om de afbeelding in te voegen ofwel de BBCode-tag [img] of toepasselijke HTML (indien toegelaten). Afbeeldingen dienen altijd te eindigen op .jpg, .jpeg, .gif of .png.<br /><a class="postlink" href="#top">Terug naar boven</a></span></td>
+		<td class="row2" align="left" valign="top"><span class="postbody"><a name="24"></a><b>Kan ik afbeeldingen plaatsen?</b></span><br /><span class="postbody">Afbeeldingen kunnen inderdaad worden getoond in je berichten. Echter, er is momenteel geen functie om afbeeldingen te uploaden naar dit forum. Daarom moet je een link plaatsen naar een afbeelding opgeslagen op een openbaar toegankelijke webserver, bijvoorbeeld https://www.een-onbekende-plaats.net/mijn-foto.gif. Je kan niet linken naar afbeeldingen opgeslagen op je eigen PC (tenzij het een openbaar toegankelijke server is) noch afbeeldingen opgeslagen op beveiligde locaties, zoals Hotmail- of Yahoo-mailboxen, sites met wachtwoordbeveiliging, enz. Gebruik om de afbeelding in te voegen ofwel de BBCode-tag [img] of toepasselijke HTML (indien toegelaten). Afbeeldingen dienen altijd te eindigen op .jpg, .jpeg, .gif of .png.<br /><a class="postlink" href="#top">Terug naar boven</a></span></td>
 	</tr>
 	<tr>
 		<td class="spaceRow" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
@@ -578,7 +578,7 @@ input.liteoption {
 		<td class="catHead" height="28" align="center"><span class="cattitle">phpBB 2-gerelateerde zaken</span></td>
 	</tr>
 	<tr>
-		<td class="row1" align="left" valign="top"><span class="postbody"><a name="36"></a><b>Wie heeft deze software geschreven?</b></span><br /><span class="postbody">Deze software (in haar oorspronkelijke vorm) is geproduceerd door, uitgebracht door en intellectueel eigendom van <a href="http://www.phpbb.com/" target="_blank">phpBB Group</a>. De software is beschikbaar gesteld onder de GNU General Public License en mag vrij worden verspreid; zie de link voor meer informatie.<br /><a class="postlink" href="#top">Terug naar boven</a></span></td>
+		<td class="row1" align="left" valign="top"><span class="postbody"><a name="36"></a><b>Wie heeft deze software geschreven?</b></span><br /><span class="postbody">Deze software (in haar oorspronkelijke vorm) is geproduceerd door, uitgebracht door en intellectueel eigendom van <a href="https://www.phpbb.com/" target="_blank">phpBB Group</a>. De software is beschikbaar gesteld onder de GNU General Public License en mag vrij worden verspreid; zie de link voor meer informatie.<br /><a class="postlink" href="#top">Terug naar boven</a></span></td>
 	</tr>
 	<tr>
 		<td class="spaceRow" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
@@ -624,7 +624,7 @@ input.liteoption {
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

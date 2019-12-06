@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -314,7 +314,7 @@ input.liteoption {
 <br />
 <span style="color: red"><span style="font-weight: bold"><span style="text-decoration: underline">Wat niet kan:</span></span></span>
 <br />
-<span style="font-weight: bold">- Banners en commerciële boodschappen</span>. Hou dit forum gewoon netjes. Er zijn andere plekken om dit te doen en mijn publiciteitstarieven zijn ook weer zo hoog niet. Bovendien raad ik je aan om gebruik te maken van de Webstuff banneruitwisseling en, wie weet, verschijnt jouw banner hier bovenaan. Zie <a href="http://www.webstuff.be" target="_blank" class="postlink">http://www.webstuff.be</a>
+<span style="font-weight: bold">- Banners en commerciële boodschappen</span>. Hou dit forum gewoon netjes. Er zijn andere plekken om dit te doen en mijn publiciteitstarieven zijn ook weer zo hoog niet. Bovendien raad ik je aan om gebruik te maken van de Webstuff banneruitwisseling en, wie weet, verschijnt jouw banner hier bovenaan. Zie <a hrefhttps:////www.webstuff.be" target="_blank" class="postlinkhttps:////www.webstuff.be</a>
 <br />
 <span style="font-weight: bold">- Schelden en kleineren. </span>Dit brengt niemand iets bij, enkel maar ergenis en een ongelukkig gevoel.
 <br />
@@ -390,7 +390,7 @@ input.liteoption {
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

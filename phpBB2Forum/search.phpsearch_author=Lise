@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -284,7 +284,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Zo Mei 20, 2007 3:32 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=166&amp;highlight=#166">Lift naar CH</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hey!<br /><br />Is er iemand die begin juli of eind juni richting Zwitserse Alpen / Zwitserland vertrekt en het ziet zitten om 1 extra persoon + 2 trekkingsrugzakken mee te nemen? Ik kom met plezier tss in de ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hey!
+<br />
+<br />Is er iemand die begin juli of eind juni richting Zwitserse Alpen / Zwitserland vertrekt en het ziet zitten om 1 extra persoon + 2 trekkingsrugzakken mee te nemen? Ik kom met plezier tss in de ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=39&amp;highlight=" class="topictitle">Tour Monte Rosa &amp; Tour du Cervin</a></span></td>
@@ -298,7 +300,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Zo Mei 20, 2007 3:28 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=165&amp;highlight=#165">Thx</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hey!<br /><br />Merci vr de info Lieselot; tmr staat al op het programma vr van de zomer! Veel bergplezier nog!<br /><br />Grtz</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hey!
+<br />
+<br />Merci vr de info Lieselot; tmr staat al op het programma vr van de zomer! Veel bergplezier nog!
+<br />
+<br />Grtz</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=61&amp;highlight=" class="topictitle">Matterhorntweeling foto vd maand</a></span></td>
@@ -312,7 +318,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Za Mei 05, 2007 3:27 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=158&amp;highlight=#158">Matterhorntweeling foto vd maand</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hiya! <br />Zeg; die foto vd 'matterhorn2ling' is die gemaakt op de terugweg vd Monte Rosa hutte? Iemand enig id? Op het paadje dat tss de Gornergletscher en Gornergrat loopt...? Echt wijze foto; kheb er  ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hiya! 
+<br />Zeg; die foto vd 'matterhorn2ling' is die gemaakt op de terugweg vd Monte Rosa hutte? Iemand enig id? Op het paadje dat tss de Gornergletscher en Gornergrat loopt...? Echt wijze foto; kheb er  ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=43&amp;highlight=" class="topictitle">Is de mens oorzaak van de opwarming van de aarde.</a></span></td>
@@ -340,7 +347,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Zo Jan 21, 2007 12:38 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=100&amp;highlight=#100">Merk net zelf een fout!!!</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Heb vr het Holocn zelf een fout getypt; het begon 11 800 jaar geleden, ze zat er dus niet zo ver naast <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> <br /><br />Wat betreft die duizenden parameters in 1 formule heb je volledig gelijk, maar ik blijf er ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Heb vr het Holocn zelf een fout getypt; het begon 11 800 jaar geleden, ze zat er dus niet zo ver naast <img src="images/smiles/icon_wink.gif" alt="Wink" border="0" /> 
+<br />
+<br />Wat betreft die duizenden parameters in 1 formule heb je volledig gelijk, maar ik blijf er ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=43&amp;highlight=" class="topictitle">Is de mens oorzaak van de opwarming van de aarde.</a></span></td>
@@ -412,7 +421,7 @@ input.liteoption {
 
 <div align="center"><span class="copyright"><br /><br />
 <!--
-	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	We request you retahttps://full copyright notice below including the link to www.phpbb.com.https://
 	This not only gives respect to the large amount of time given freely by the developers
 	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
 	reason) retain the full copyright we request you at least leave in place the

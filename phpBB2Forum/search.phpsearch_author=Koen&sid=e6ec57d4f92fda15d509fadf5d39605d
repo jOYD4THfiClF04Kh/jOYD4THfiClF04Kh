@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -270,7 +270,7 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Di Okt 23, 2007 4:19 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=226&amp;highlight=#226">Klim- en bergsportfederatie</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ondertussen is [url=http://www.klimenbergsportfederatie.be/]hier de nieuwe site online.</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ondertussen is [url=https://www.klimenbergsportfederatie.be/]hier de nieuwe site online.</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=81&amp;highlight=" class="topictitle">Huttentocht Monte Rosa gebied</a></span></td>
@@ -284,7 +284,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=4" class="postdetails">Italië</a></b>&nbsp; &nbsp;Geplaatst: Di Okt 23, 2007 4:17 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=225&amp;highlight=#225">Huttentocht Monte Rosa gebied</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ben zelf nog maar één keer in de buurt geweest en dit was in de winter. Ik denk dat sommige aanlopen naar deze hutten al over eenvoudig gletsjerterrein gaan, maar ben dit niet zeker. <br /><br />Weet niet of  ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ben zelf nog maar één keer in de buurt geweest en dit was in de winter. Ik denk dat sommige aanlopen naar deze hutten al over eenvoudig gletsjerterrein gaan, maar ben dit niet zeker. 
+<br />
+<br />Weet niet of  ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=76&amp;highlight=" class="topictitle">Huttenservice</a></span></td>
@@ -298,7 +300,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Za Sep 15, 2007 11:48 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=217&amp;highlight=#217">Huttenservice</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ik vernam deze zomer dat er in Zwitserland een campagne zou geweest zijn om gastvriendelijker te zijn tov 'toeristen'. Zou zelfs op TV geweest zijn, ook gericht op huttenwirten?<br /><br />Ik heb deze zomer h ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ik vernam deze zomer dat er in Zwitserland een campagne zou geweest zijn om gastvriendelijker te zijn tov 'toeristen'. Zou zelfs op TV geweest zijn, ook gericht op huttenwirten?
+<br />
+<br />Ik heb deze zomer h ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=56&amp;highlight=" class="topictitle">Wanneer trek jij de bergen in?</a></span></td>
@@ -312,7 +316,13 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=14" class="postdetails">Actualiteit</a></b>&nbsp; &nbsp;Geplaatst: Ma Aug 13, 2007 2:54 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=203&amp;highlight=#203">Wanneer trek jij de bergen in?</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Joris,<br /><br />ook voor mij: zo vaak mogelijk! Het ganse jaar rond. Wandelen, alpinisme, toerskiën.<br /><br />Vraag mij af of er nog bezoekers zijn van deze site die toerskiën?<br /><br />Koen</span></td>
+	<td valign="top" class="row1"><span class="postbody">Joris,
+<br />
+<br />ook voor mij: zo vaak mogelijk! Het ganse jaar rond. Wandelen, alpinisme, toerskiën.
+<br />
+<br />Vraag mij af of er nog bezoekers zijn van deze site die toerskiën?
+<br />
+<br />Koen</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=64&amp;highlight=" class="topictitle">Waar staat dit kruis?</a></span></td>
@@ -326,7 +336,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=15" class="postdetails">Test jouw kennis</a></b>&nbsp; &nbsp;Geplaatst: Ma Aug 13, 2007 2:49 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=202&amp;highlight=#202">Tracuit?</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Joris,<br /><br />zou het kunnen dat dit de Cabane de Tracuit is? Ik herken het eerder aan het WC-gebouwtje op de achtergrond dan aan het kruis...<br /><br />Koen</span></td>
+	<td valign="top" class="row1"><span class="postbody">Joris,
+<br />
+<br />zou het kunnen dat dit de Cabane de Tracuit is? Ik herken het eerder aan het WC-gebouwtje op de achtergrond dan aan het kruis...
+<br />
+<br />Koen</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=75&amp;highlight=" class="topictitle">berghutten en honden...</a></span></td>
@@ -340,7 +354,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Ma Aug 13, 2007 2:46 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=201&amp;highlight=#201">berghutten en honden...</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Steven,<br /><br />geen idee. Lijkt me een goed idee om die vraag rechtsreeks te stellen aan de huttenwirt. Een telefoontje of e-mail volstaat. Denk dat dit toch zal afhangen van hut tot hut.<br /><br />Succes ermee, ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Steven,
+<br />
+<br />geen idee. Lijkt me een goed idee om die vraag rechtsreeks te stellen aan de huttenwirt. Een telefoontje of e-mail volstaat. Denk dat dit toch zal afhangen van hut tot hut.
+<br />
+<br />Succes ermee, ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=72&amp;highlight=" class="topictitle">Aanloop Finsteraarhornhutte vanaf Grimselpas</a></span></td>
@@ -368,13 +386,17 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Ma Mei 28, 2007 11:26 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=180&amp;highlight=#180">Aanloop Finsteraarhornhutte vanaf Grimselpas</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo,<br /><br />Heeft iemand ervaring met aanloop naar de Finsteraarhornhutte vanaf de Grimselpas? <br /><br />Deze route voert vanaf het Berghaus Oberaar naar Oberaarjochhutte en over Gemschlicke naar Finsteraarho ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo,
+<br />
+<br />Heeft iemand ervaring met aanloop naar de Finsteraarhornhutte vanaf de Grimselpas? 
+<br />
+<br />Deze route voert vanaf het Berghaus Oberaar naar Oberaarjochhutte en over Gemschlicke naar Finsteraarho ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=48&amp;highlight=" class="topictitle">Bishorn</a></span></td>
   </tr>
   <tr>
-	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href="profile.php?mode=viewprofile&amp;u=23">Koen</a></b></span><br />
+	<td width="150" align="left" valign="top" class="row1" rowspan="2"><span class="name"><b><a href=https://e.php?mode=viewprofile&amp;u=23">Koen</a></b></span><br />
 	  <br />
 	  <span class="postdetails">Antwoorden: <b>6</b><br />
 	  Bekeken: <b>1606</b></span><br />
@@ -382,7 +404,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Wo Mrt 14, 2007 4:10 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=145&amp;highlight=#145">topo</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Dat is de SAC fuhrer Alpes Valaisannes 3. Zie echter op de site van de SAC dat die niet vermeld staat, misschien uit druk? <br /><br />Hem hem zelf vorige september nog gekocht in Zinal.<br /><br />Koen</span></td>
+	<td valign="top" class="row1"><span class="postbody">Dat is de SAC fuhrer Alpes Valaisannes 3. Zie echter op de site van de SAC dat die niet vermeld staat, misschien uit druk? 
+<br />
+<br />Hem hem zelf vorige september nog gekocht in Zinal.
+<br />
+<br />Koen</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -396,7 +422,11 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Do Mrt 01, 2007 3:45 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=139&amp;highlight=#139">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Marnix,<br /><br />even gegoogled en [url=http://www.zillertalbahn.at]hier zou je moeten vinden wat je nodig hebt (zillertalbahn.at). <br /><br />Koen</span></td>
+	<td valign="top" class="row1"><span class="postbody">Marnix,
+<br />
+<br />even gegoogled en [url=http://www.zillertalbahn.at]hier zou je moeten vinden wat je nodig hebt (zillertalbahn.at). 
+<br />
+<br />Koen</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -410,7 +440,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Vr Feb 23, 2007 11:07 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=136&amp;highlight=#136">Berliner hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Marnix,<br /><br />graag gedaan, 't is maar omdat ik twee dagen ziek (griep) thuis zit dat ik zo uitgebreid kon antwoorden. Eind april/begin mei zal allicht nog meer toerski-seizoen zijn dan bergwandel seizoe ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Marnix,
+<br />
+<br />graag gedaan, 't is maar omdat ik twee dagen ziek (griep) thuis zit dat ik zo uitgebreid kon antwoorden. Eind april/begin mei zal allicht nog meer toerski-seizoen zijn dan bergwandel seizoe ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=55&amp;highlight=" class="topictitle">Ospizio La Veduta, Julierpass, Zwitserland</a></span></td>
@@ -424,7 +456,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=13" class="postdetails">Vakantieverblijven</a></b>&nbsp; &nbsp;Geplaatst: Do Feb 22, 2007 4:31 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=134&amp;highlight=#134">Ospizio La Veduta, Julierpass, Zwitserland</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Eind januari 2007 gingen we enkele dagen toerskiën in Engadin. We ontdekten in de buurt van Bivio, op de Julierpass, het Ospizio La Veduta.<br /><br />Dit is niet echt een hut, eigenlijk meer een hotel-restau ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Eind januari 2007 gingen we enkele dagen toerskiën in Engadin. We ontdekten in de buurt van Bivio, op de Julierpass, het Ospizio La Veduta.
+<br />
+<br />Dit is niet echt een hut, eigenlijk meer een hotel-restau ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=53&amp;highlight=" class="topictitle">Simmshutte, Lechtaler Alpen, Oostenrijk</a></span></td>
@@ -438,7 +472,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=10" class="postdetails">Routebeschrijvingen</a></b>&nbsp; &nbsp;Geplaatst: Do Feb 22, 2007 4:19 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=132&amp;highlight=#132">Simmshutte, Lechtaler Alpen, Oostenrijk</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">De Frederic Simmshutte (2.004m) is te bereiken vanuit Stockach (1.070m), een gehucht tussen Holzgau en Elbigenalp in het Lechtal.<br /><br />Komende van Elbigenalp parkeer je net voor je Stockach uitrijdt lin ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">De Frederic Simmshutte (2.004m) is te bereiken vanuit Stockach (1.070m), een gehucht tussen Holzgau en Elbigenalp in het Lechtal.
+<br />
+<br />Komende van Elbigenalp parkeer je net voor je Stockach uitrijdt lin ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -452,7 +488,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Do Feb 22, 2007 2:54 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=131&amp;highlight=#131">Winterraum</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Marnix,<br /><br />nog dit: een winterraum is niets anders dan een afgesloten deel van de hut dat buiten het seizoen toegankelijk is. Je hebt er (meestal, maar niet altijd) een kachel, een houtvoorraad en een ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Marnix,
+<br />
+<br />nog dit: een winterraum is niets anders dan een afgesloten deel van de hut dat buiten het seizoen toegankelijk is. Je hebt er (meestal, maar niet altijd) een kachel, een houtvoorraad en een ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=52&amp;highlight=" class="topictitle">Berliner Hohenweg</a></span></td>
@@ -466,7 +504,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Do Feb 22, 2007 2:46 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=130&amp;highlight=#130">Berliner Hohenweg</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Marnix,<br /><br />ik wandelde deze in de zomer van 2004, van 27 juli tot en met 2 augustus, in een week met continue goed weer, in wijzerzin. Dit is een heel mooie huttentocht, een echte aanrader, vind ik. J ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Marnix,
+<br />https://https://
+<br />ik wandelde deze in de zomer van 2004, van 27 juli tot en met 2 augustus, in een week met continue goed weer, in wijzerzin. Dit is een heel mooie huttentocht, een echte aanrader, vind ik. J ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>

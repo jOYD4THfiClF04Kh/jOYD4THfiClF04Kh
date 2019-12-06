@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -410,7 +410,7 @@ nog vragen? <a href="mailto:eddy.vanmossevelde@skynet.be">eddy.vanmossevelde@sky
 		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Terug naar boven</a></span></td>
 		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
 			<tr>
-				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=59"><img src="templates/subSilver/images/lang_dutch/icon_profile.gif" alt="Profiel bekijken" title="Profiel bekijken" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=59"><img src="templates/subSilver/images/lang_dutch/icon_pm.gif" alt="Stuur priv&eacute;bericht" title="Stuur priv&eacute;bericht" border="0" /></a>  <a href="http://users.skynet.be/sky44052" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=59"><img src="templates/subSilver/images/lang_dutch/icon_profile.gif" alt="Profiel bekijken" title="Profiel bekijken" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=59"><img src="templates/subSilver/images/lang_dutch/icon_pm.gif" alt="Stuur priv&eacute;bericht" title="Stuur priv&eacute;bericht" border="0" /></a>  <a href="https://users.skynet.be/sky44052" target="_userwww"><img src="templates/subSilver/images/lang_dutch/icon_www.gif" alt="Website bekijken" title="Website bekijken" border="0" /></a>   <script language="JavaScript" type="text/javascript"><!--
 
 	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
 		document.write(' ');
@@ -474,7 +474,7 @@ nog vragen? <a href="mailto:eddy.vanmossevelde@skynet.be">eddy.vanmossevelde@sky
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

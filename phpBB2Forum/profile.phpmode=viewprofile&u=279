@@ -34,7 +34,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -333,11 +333,11 @@ input.liteoption {
 		  <td class="row1"><script language="JavaScript" type="text/javascript"><!--
 
 		if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
-			document.write(' <a href="http://wwp.icq.com/scripts/search.dll?to=242831487"><img src="templates/subSilver/images/lang_dutch/icon_icq_add.gif" alt="ICQ-nummer" title="ICQ-nummer" border="0" /></a>');
+			document.write(' <a href="https://wwp.icq.com/scripts/search.dll?to=242831487"><img src="templates/subSilver/images/lang_dutch/icon_icq_add.gif" alt="ICQ-nummer" title="ICQ-nummer" border="0" /></a>');
 		else
-			document.write('<table cellspacing="0" cellpadding="0" border="0"><tr><td nowrap="nowrap"><div style="position:relative;height:18px"><div style="position:absolute"><a href="http://wwp.icq.com/scripts/search.dll?to=242831487"><img src="templates/subSilver/images/lang_dutch/icon_icq_add.gif" alt="ICQ-nummer" title="ICQ-nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="http://wwp.icq.com/242831487#pager"><img src="http://web.icq.com/whitepages/online?icq=242831487&img=5" width="18" height="18" border="0" /></a></div></div></td></tr></table>');
+			document.write('<table cellspacing="0" cellpadding="0" border="0"><tr><td nowrap="nowrap"><div style="position:relative;height:18px"><div style="position:absolute"><a href="https://wwp.icq.com/scripts/search.dll?to=242831487"><img src="templates/subSilver/images/lang_dutch/icon_icq_add.gif" alt="ICQ-nummer" title="ICQ-nummer" border="0" /></a></div><div style="position:absolute;left:3px;top:-1px"><a href="https://wwp.icq.com/242831487#pager"><img src="https://web.icq.com/whitepages/online?icq=242831487&img=5" width="18" height="18" border="0" /></a></div></div></td></tr></table>');
 
-		  //--></script><noscript><a href="http://wwp.icq.com/scripts/search.dll?to=242831487"><img src="templates/subSilver/images/lang_dutch/icon_icq_add.gif" alt="ICQ-nummer" title="ICQ-nummer" border="0" /></a></noscript></td>
+		  //--></script><noscript><a href="https://wwp.icq.com/scripts/search.dll?to=242831487"><img src="templates/subSilver/images/lang_dutch/icon_icq_add.gif" alt="ICQ-nummer" title="ICQ-nummer" border="0" /></a></noscript></td>
 		</tr>
 	  </table>
 	</td>
@@ -369,7 +369,7 @@ input.liteoption {
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

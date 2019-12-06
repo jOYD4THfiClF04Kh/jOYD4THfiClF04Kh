@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb">
 <head>
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
@@ -632,7 +632,7 @@ function marklist(id, name, state)
 		<tr>
 							<td class="row2" valign="top">
 							<div class="postbody"><a name="f33"></a><b>&#187; Can I post images?</b></div>
-				<div class="postbody">Yes, images can be shown in your posts. If the administrator has allowed attachments, you may be able to upload the image to the board. Otherwise, you must link to an image stored on a publicly accessible web server, e.g. http://www.example.com/my-picture.gif. You cannot link to pictures stored on your own PC (unless it is a publicly accessible server) nor images stored behind authentication mechanisms, e.g. hotmail or yahoo mailboxes, password protected sites, etc. To display the image use the BBCode [img] tag.</div>
+				<div class="postbody">Yes, images can be shown in your posts. If the administrator has allowed attachments, you may be able to upload the image to the board. Otherwise, you must link to an image stored on a publicly accessible web server, e.g. https://www.example.com/my-picture.gif. You cannot link to pictures stored on your own PC (unless it is a publicly accessible server) nor images stored behind authentication mechanisms, e.g. hotmail or yahoo mailboxes, password protected sites, etc. To display the image use the BBCode [img] tag.</div>
 				<p class="gensmall"><a href="#faqtop">Top</a></p>
 			</td>
 		</tr>
@@ -1000,7 +1000,7 @@ function marklist(id, name, state)
 		<tr>
 							<td class="row1" valign="top">
 							<div class="postbody"><a name="f100"></a><b>&#187; Who wrote this bulletin board?</b></div>
-				<div class="postbody">This software (in its unmodified form) is produced, released and is copyright <a href="http://www.phpbb.com/">phpBB Group</a>. It is made available under the GNU General Public License and may be freely distributed. See the link for more details.</div>
+				<div class="postbody">This software (in its unmodified form) is produced, released and is copyright <a href="https://www.phpbb.com/">phpBB Group</a>. It is made available under the GNU General Public License and may be freely distributed. See the link for more details.</div>
 				<p class="gensmall"><a href="#faqtop">Top</a></p>
 			</td>
 		</tr>
@@ -1022,7 +1022,7 @@ function marklist(id, name, state)
 		<tr>
 							<td class="row1" valign="top">
 							<div class="postbody"><a name="f102"></a><b>&#187; Who do I contact about abusive and/or legal matters related to this board?</b></div>
-				<div class="postbody">Any of the administrators listed on the “The team” page should be an appropriate point of contact for your complaints. If this still gets no response then you should contact the owner of the domain (do a <a href="http://www.google.com/search?q=whois">whois lookup</a>) or, if this is running on a free service (e.g. Yahoo!, free.fr, f2s.com, etc.), the management or abuse department of that service. Please note that the phpBB Group has <strong>absolutely no jurisdiction</strong> and cannot in any way be held liable over how, where or by whom this board is used. Do not contact the phpBB Group in relation to any legal (cease and desist, liable, defamatory comment, etc.) matter <strong>not directly related</strong> to the phpBB.com website or the discrete software of phpBB itself. If you do e-mail phpBB Group <strong>about any third party</strong> use of this software then you should expect a terse response or no response at all.</div>
+				<div class="postbody">Any of the administrators listed on the “The team” page should be an appropriate point of contact for your complaints. If this still gets no response then you should contact the owner of the domain (do a <a href="https://www.google.com/search?q=whois">whois lookup</a>) or, if this is running on a free service (e.g. Yahoo!, free.fr, f2s.com, etc.), the management or abuse department of that service. Please note that the phpBB Group has <strong>absolutely no jurisdiction</strong> and cannot in any way be held liable over how, where or by whom this board is used. Do not contact the phpBB Group in relation to any legal (cease and desist, liable, defamatory comment, etc.) matter <strong>not directly related</strong> to the phpBB.com website or the discrete software of phpBB itself. If you do e-mail phpBB Group <strong>about any third party</strong> use of this software then you should expect a terse response or no response at all.</div>
 				<p class="gensmall"><a href="#faqtop">Top</a></p>
 			</td>
 		</tr>
@@ -1097,7 +1097,7 @@ function marklist(id, name, state)
 //-->
 
 <div id="wrapfooter">
-		<span class="copyright">Powered by <a href="http://www.phpbb.com/">phpBB</a> &copy; 2000, 2002, 2005, 2007 phpBB Group
+		<span class="copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a> &copy; 2000, 2002, 2005, 2007 phpBB Group
 	</span>
 </div>
 

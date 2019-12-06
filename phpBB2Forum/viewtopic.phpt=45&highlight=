@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -529,7 +529,7 @@ Wat is weinig of geen ervaring? Nog nooit bergen gezien of wandelschoenen aanget
 <br />
 
 <br />
-Ik vind veel info over de dagetappes <a href="http://www.adlerweg.tirol.at/" target="_blank" class="postlink">hier</a>.
+Ik vind veel info over de dagetappes <a href="https://www.adlerweg.tirol.at/" target="_blank" class="postlink">hier</a>.
 <br />
 
 <br />
@@ -629,7 +629,7 @@ Timme</span><span class="gensmall"></span></td>
 			<tr>
 				<td colspan="2"><span class="postbody">Hallo Timme,
 <br />
-In de hutten zijn meestal dekens en kussens beschikbaar. Om hygiënische redenen verwacht men evenwel dat je een linnen of lakenzak meebrengt. Deze wegen niets en kan je heel klein oprollen in je rugzak. Je kan ze kopen in de buitensportzaak, zoals <a href="http://www.kariboe.be" target="_blank" class="postlink">Kariboe </a> of <a href="http://www.berghut.be" target="_blank" class="postlink"> de Berghut </a>. 
+In de hutten zijn meestal dekens en kussens beschikbaar. Om hygiënische redenen verwacht men evenwel dat je een linnen of lakenzak meebrengt. Deze wegen niets en kan je heel klein oprollen in je rugzak. Je kan ze kopen in de buitensportzaak, zoals <a hrefhttps:////www.kariboe.be" target="_blank" class="postlink">Kariboe </a> of <a hrefhttps:////www.berghut.be" target="_blank" class="postlink"> de Berghut </a>. 
 <br />
 Groetjes,
 <br />
@@ -944,7 +944,7 @@ greetz, Philip<br />_________________<br />Even the sky isn't the limit</span><s
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

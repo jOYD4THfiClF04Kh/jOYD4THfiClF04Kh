@@ -2,7 +2,7 @@
 * scroller.js                                                                 *
 *                                                                             *
 * Copyright 1999 by Mike Hall.                                                *
-* Visit http://www.dynamicdrive.com                                      *
+* Visit https://www.dynamicdrive.com                                      *
 * Last update: December 1, 1999.                                              *
 *                                                                             *
 * Allows you to create scrolling displays on a page. Multiple scrollers can   *

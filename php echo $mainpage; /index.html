@@ -114,7 +114,7 @@
 
 
   <p>Ik heb eveneens de website van
-  <a target="_blank" href="http://bartnaert.hutten.be">Bart Naert</a> opnieuw 
+  <a target="_blank" href="https://bartnaert.hutten.be">Bart Naert</a> opnieuw 
   ter beschikking gesteld.</p>
 
 
@@ -138,10 +138,10 @@
  var s_sid = 136828;var st_dominio = 4; 
  var cimg = 0;var cwi =150;var che =30; 
   </script> 
- <script  type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script> 
+ <script  type="text/javascript" language="javascript" src="https://s10.histats.com/js9.js"></script> 
  <noscript>
-  <a href="http://www.histats.com" target="_blank"> 
- <img  src="http://s4.histats.com/stats/0.gif?136828&1" alt="free web hit counter" border="0"></a></noscript> 
+  <a href="https://www.histats.com" target="_blank"> 
+ <img  src="https://s4.histats.com/stats/0.gif?136828&1" alt="free web hit counter" border="0"></a></noscript> 
   
  <!-- Histats.com  END  --> 
 

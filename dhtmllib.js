@@ -2,7 +2,7 @@
 * dhtmllib.js                                                                 *
 *                                                                             *
 * Copyright 1999 by Mike Hall.
-* Visit http://www.dynamicdrive.com                                               *                                       *
+* Visit https://www.dynamicdrive.com                                               *                                       *
 * Last update: November 30, 1999.                                             *
 *                                                                             *
 * Provides basic functions for DHTML positioned elements which will work on   *

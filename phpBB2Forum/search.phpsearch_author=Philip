@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -270,7 +270,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=10" class="postdetails">Routebeschrijvingen</a></b>&nbsp; &nbsp;Geplaatst: Za Jul 28, 2007 6:58 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=195&amp;highlight=#195">Simmshutte, Lechtaler Alpen, Oostenrijk</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">net terug van de simms hutte, zoals altijd dik in orde!<br />beklimming naar de wetterspitze is niet gelukt deze keer, te veel wind (op een &quot;hochsommertag&quot; dan nog wel). mss een tip voor mensen  ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">net terug van de simms hutte, zoals altijd dik in orde!
+<br />beklimming naar de wetterspitze is niet gelukt deze keer, te veel wind (op een &quot;hochsommertag&quot; dan nog wel). mss een tip voor mensen  ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=45&amp;highlight=" class="topictitle">Reservaties</a></span></td>
@@ -298,7 +299,12 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=5" class="postdetails">Oostenrijk</a></b>&nbsp; &nbsp;Geplaatst: Za Mei 26, 2007 5:07 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=179&amp;highlight=#179">Beklimmingen oostenrijk</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo,<br /><br />ik ben op zoek naar meer info ivm de volgende beklimmingen/ bergen in het Lechtall (meer bepaald in de buurt van Holzgau):<br /><br />- Beklimming 3 Festen (sulztal)<br />- Beklimming noordwand Wettersp ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo,
+<br />
+<br />ik ben op zoek naar meer info ivm de volgende beklimmingen/ bergen in het Lechtall (meer bepaald in de buurt van Holzgau):
+<br />
+<br />- Beklimming 3 Festen (sulztal)
+<br />- Beklimming noordwand Wettersp ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=62&amp;highlight=" class="topictitle">Gross Glockner</a></span></td>
@@ -326,7 +332,10 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=10" class="postdetails">Routebeschrijvingen</a></b>&nbsp; &nbsp;Geplaatst: Za Mei 26, 2007 5:01 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=177&amp;highlight=#177">Simmshutte, Lechtaler Alpen, Oostenrijk</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Ik ben er in de zomer van 2006 ook geweest, prachtig weer gehad!<br />We hebben de Wetterspitze, Rotschrofenspitze en de Sonnenkogel (Vorderer en Hinterer) beklommen. <br /><br />De pachter vd Simmshutte is idd e ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Ik ben er in de zomer van 2006 ook geweest, prachtig weer gehad!
+<br />We hebben de Wetterspitze, Rotschrofenspitze en de Sonnenkogel (Vorderer en Hinterer) beklommen. 
+<br />
+<br />De pachter vd Simmshutte is idd e ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -356,7 +365,7 @@ input.liteoption {
 
 <div align="center"><span class="copyright"><br /><br />
 <!--
-	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	We request you retahttps://full copyright notice below including the link to www.phpbb.com.https://
 	This not only gives respect to the large amount of time given freely by the developers
 	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
 	reason) retain the full copyright we request you at least leave in place the

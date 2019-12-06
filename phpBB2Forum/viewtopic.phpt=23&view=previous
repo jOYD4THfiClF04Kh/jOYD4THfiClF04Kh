@@ -37,7 +37,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -320,7 +320,7 @@ Frank
 <br />
 Hallo Joris, 
 <br />
-Zoals beloofd zou ik er nog op terugkomen, wat later dan ik had gehoopt, maar wel succesvol. Wanneer je de volgende link volgt kom je op een site (in een pdf-bestand) terecht waarin je de touwtechnieken incl. aanbinden kan vinden volgens de NKBV (<a href="http://www.xs4all.nl/~rider/klimweb/touwtechnieken.pdf" target="_blank" class="postlink">http://www.xs4all.nl/~rider/klimweb/touwtechnieken.pdf</a>). 
+Zoals beloofd zou ik er nog op terugkomen, wat later dan ik had gehoopt, maar wel succesvol. Wanneer je de volgende link volgt kom je op een site (in een pdf-bestand) terecht waarin je de touwtechnieken incl. aanbinden kan vinden volgens de NKBV (<a href="https://www.xs4all.nl/~rider/klimweb/touwtechnieken.pdf" target="_blank" class="postlink">https://www.xs4all.nl/~rider/klimweb/touwtechnieken.pdf</a>). 
 <br />
 Ik hoop dat het dat is wat je zocht. 
 <br />
@@ -480,7 +480,7 @@ Als jij nog informatie hierover hebt, vernemen we dat graag.</span><span class="
 
 	The phpBB Group : 2002
 // -->
-Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+Powered by <a href="https://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="https://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
 		</td>
 	</tr>
 </table>

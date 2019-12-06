@@ -16,7 +16,7 @@
 /*
   The original subSilver Theme for phpBB version 2+
   Created by subBlue design
-  http://www.subBlue.com
+  https://www.subBlue.com
 
   NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
   theme administration centre. When you have finalised your style you could cut the final CSS code
@@ -298,7 +298,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Zo Dec 31, 2006 1:14 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=79&amp;highlight=#79">Cavardirashütte - Etzlihutte</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Zoals elk jaar plan ik een kleine huttentocht in de Alpen voor een beperkte vriendenkring.<br />Deze zomer zou ik de oversteek van de Cavardirashütte naar de Etzlihütte willen doen. (Oberalpstock - Midden ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Zoals elk jaar plan ik een kleine huttentocht in de Alpen voor een beperkte vriendenkring.
+<br />Deze zomer zou ik de oversteek van de Cavardirashütte naar de Etzlihütte willen doen. (Oberalpstock - Midden ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=41&amp;highlight=" class="topictitle">Onbekende top</a></span></td>
@@ -326,7 +327,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Do Dec 28, 2006 8:28 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=77&amp;highlight=#77">Topje</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hey<br />Ken de vallei van Zinal niet, maar is de Weisshorn gn optie? Maar een gokje natuurlijk, de Zinalrothorn lijkt me redelijk onwaarschijnlijk, kan, maar betwijfel het. Ken de Weisshorn ook beter van ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hey
+<br />Ken de vallei van Zinal niet, maar is de Weisshorn gn optie? Maar een gokje natuurlijk, de Zinalrothorn lijkt me redelijk onwaarschijnlijk, kan, maar betwijfel het. Ken de Weisshorn ook beter van ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=37&amp;highlight=" class="topictitle">Vertalingen</a></span></td>
@@ -340,7 +342,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=18" class="postdetails">Café</a></b>&nbsp; &nbsp;Geplaatst: Do Dec 28, 2006 8:04 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=76&amp;highlight=#76">Vertalingen</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hey<br />Er zijn redelijk wat berghandboeken waar (korte) lijstjes in staan met basiswoordverklaringen (maar dan dingen zoals karabiner, touwtermen, andere technische hulpmiddelen). Kan je mss ook wel wat ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hey
+<br />Er zijn redelijk wat berghandboeken waar (korte) lijstjes in staan met basiswoordverklaringen (maar dan dingen zoals karabiner, touwtermen, andere technische hulpmiddelen). Kan je mss ook wel wat ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=29&amp;highlight=" class="topictitle">winterwandelingen in Oostenrijk</a></span></td>
@@ -365,10 +368,13 @@ input.liteoption {
 	  <span class="postdetails">Antwoorden: <b>5</b><br />
 	  Bekeken: <b>1622</b></span><br />
 	</td>
-	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Wo Dec 20, 2006 2:37 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=74&amp;highlight=#74">Tour Monte Rosa &amp; Tour du Cervin</a></b></span></td>
+	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><https://ass="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Wo Dec 20, 2006 2:37 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=74&amp;highlight=#74">Tour Monte Rosa &amp; Tour du Cervin</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">het relaas van 5 mensen die de tocht gedaan hebben, weliswaar met een iets lastiger slot...<br /><br /><br />http://web.mac.com/krisbielen/iWeb/Site/Welkom.html</span></td>
+	<td valign="top" class="row1"><span class="postbody">het relaas van 5 mensen die de tocht gedaan hebben, weliswaar met een iets lastiger slot...
+<br />
+<br />
+<br />http://web.mac.com/krisbielen/iWeb/Site/Welkom.html</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=41&amp;highlight=" class="topictitle">Onbekende top</a></span></td>
@@ -382,7 +388,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Di Dec 19, 2006 12:09 am&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=73&amp;highlight=#73">Onbekende top</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Misschien zou je denken dat deze vraag meer thuis hoort onder de rubriek &quot;Test jouw kennis&quot;, maar ik weet het antwoord zelf niet op de vraag.  <br /><br />Wat ik wel weet is dat ik enige tijd gelede ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Misschien zou je denken dat deze vraag meer thuis hoort onder de rubriek &quot;Test jouw kennis&quot;, maar ik weet het antwoord zelf niet op de vraag.  
+<br />
+<br />Wat ik wel weet is dat ik enige tijd gelede ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=38&amp;highlight=" class="topictitle">Weet je welk dorp dit is?</a></span></td>
@@ -396,7 +404,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=15" class="postdetails">Test jouw kennis</a></b>&nbsp; &nbsp;Geplaatst: Ma Dec 18, 2006 11:05 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=72&amp;highlight=#72">Welk dorp is  dit.</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Heel goed. <br />Het is inderdaad Disentis. De foto kon je overigens reeds terugvinden onder streekinformatie op deze site. Disentis is gelegen in het kanton Graubunden.<br />Wat het zo herkenbaar maakt is he ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Heel goed. 
+<br />Het is inderdaad Disentis. De foto kon je overigens reeds terugvinden onder streekinformatie op deze site. Disentis is gelegen in het kanton Graubunden.
+<br />Wat het zo herkenbaar maakt is he ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=38&amp;highlight=" class="topictitle">Weet je welk dorp dit is?</a></span></td>
@@ -424,7 +434,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Zo Dec 17, 2006 1:17 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=69&amp;highlight=#69">Tour Monte Rosa &amp; Tour du Cervin</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hey,<br />Merci voor het antwoord! Boeken heb ik evenwel zelf al bij hopen gelezen, sites en kaarten ook al uitgepluisd, heb alle stafkaarten van het gebied, maar ben eigenlijk op zoek naar iemand die het ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hey,
+<br />Merci voor het antwoord! Boeken heb ik evenwel zelf al bij hopen gelezen, sites en kaarten ook al uitgepluisd, heb alle stafkaarten van het gebied, maar ben eigenlijk op zoek naar iemand die het ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=39&amp;highlight=" class="topictitle">Tour Monte Rosa &amp; Tour du Cervin</a></span></td>
@@ -438,7 +449,9 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Za Dec 16, 2006 10:10 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=68&amp;highlight=#68">Tour du Monte Rosa</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hallo Lise,<br /><br />Ik geloof niet dat je gezekerd moet zijn om over de Theodulgletsjer te gaan. Deze is redelijk vlak en reeds ver afgesmolten. De Tour du Monte Rosa wordt overigens gedaan door goede berg ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hallo Lise,
+<br />
+<br />Ik geloof niet dat je gezekerd moet zijn om over de Theodulgletsjer te gaan. Deze is redelijk vlak en reeds ver afgesmolten. De Tour du Monte Rosa wordt overigens gedaan door goede berg ...</span></td>
   </tr>
   <tr>
 	<td class="catHead" colspan="2" height="28"><span class="topictitle"><img src="templates/subSilver/images/folder.gif" align="absmiddle" />&nbsp; Onderwerp:&nbsp;<a href="viewtopic.php?t=40&amp;highlight=" class="topictitle">Wintersport</a></span></td>
@@ -466,7 +479,8 @@ input.liteoption {
 	<td width="100%" valign="top" class="row1"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /><span class="postdetails">Forum:&nbsp;<b><a href="viewforum.php?f=7" class="postdetails">Zwitserland</a></b>&nbsp; &nbsp;Geplaatst: Vr Dec 15, 2006 2:54 pm&nbsp; &nbsp;Onderwerp: <b><a href="viewtopic.php?p=66&amp;highlight=#66">Tour Monte Rosa &amp; Tour du Cervin</a></b></span></td>
   </tr>
   <tr>
-	<td valign="top" class="row1"><span class="postbody">Hey, <br />Ik zou graag deze zomer een paar weekjes rondtrekken in CH / VS. Zou graag de Tour Monte Rosa en/of de Tour du Cervin doen. Ik heb hun sites al gecheckt, qua moeilijkheidsgraad ben je er evenwe ...</span></td>
+	<td valign="top" class="row1"><span class="postbody">Hey, 
+<br />Ik zou graag deze zomer een paar weekjes rondtrekken in CH / VS. Zou graag de Tour Monte Rosa en/of de Tour du Cervin doen. Ik heb hun sites al gecheckt, qua moeilijkheidsgraad ben je er evenwe ...</span></td>
   </tr>
   <tr>
 	<td class="catBottom" colspan="2" height="28" align="center">&nbsp; </td>
@@ -491,7 +505,7 @@ input.liteoption {
 
 </td>
   </tr>
-</table>
+</table>https://https://
 
 
 <div align="center"><span class="copyright"><br /><br />

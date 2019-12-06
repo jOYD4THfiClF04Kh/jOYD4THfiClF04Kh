@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- BIG SAM v.1.1.08 * Built_In Guestbook / Stand_Alone Module * http://www.atilla.org/bigsam/ -->
+<html>
+<head><title>Hutten Gastenboek</title></head><body bgcolor="#FFFFFF">
+<center>
+<form method="POST" action="/guestbooks/main-gb.php"><table border="0" cellspacing="0" cellpadding="3">
+<tr bgcolor="#666666">
+<td><font color="#FFFFFF"><b>Naam :</b></font><input name="name" size="20" maxlength="50"></td>
+<td>&nbsp;</td>
+<td align=right><font color="#FFFFFF"><b>E-mail :</b></font><input name="email" size="20" maxlength="50"></td>
+</tr>
+<tr bgcolor="#EEEEEE"><td colspan="3">
+<font color="#000000"><b>Bericht :</b></font><br>
+<center><textarea name="message" cols="60" rows="7"></textarea></center>
+</td></tr>
+<tr bgcolor="#DDDDDD"><td colspan="3" align="right">
+<input type="submit" value="Zet in gastenboek!"></td></tr>
+</table>
+</form>
+</center>
+<p>&nbsp;</p>
+<center>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 05th October 2003 - 09:58:15 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>56 : <a title="oberholzklau@freenet.de" href="mailto:oberholzklau@freenet.de">herbert</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Betrifft: Rif. San Marco
+<br>
+<br>Eine Hütte zum Verweilen, viel zu schade für &quot;Trekker&quot; oder Durchzieher. </b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 28th September 2003 - 06:41:08 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>55 : <a title="hsimons@tref.nl" href="mailto:hsimons@tref.nl">hans</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>goede informatie!!
+<br>heb zelf ook een site over oberstdorf met veel foto's: <a href="http://www.swalmen.net/oberstdorf" target="_blank">http://www.swalmen.net/oberstdorf</a></b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 16th September 2003 - 10:47:30 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>54 : <a title="verbiest.jo@pandora.be" href="mailto:verbiest.jo@pandora.be">Johan</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Leuke site! We bereiden onze volgende dolomietentocht voor en vinden hier al foto's en gegevens van 3 van onze 7 hutten. Dit is een zeer tof, mijn bewondering voor de opmaak!Het Brenta-massief zal voor ons in 2004 de uitdaging zijn.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 31st August 2003 - 10:26:52 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>53 : <a title="th.hegeman@chello.nl" href="mailto:th.hegeman@chello.nl">theo</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>leuke site ik heb er veel informatie vanaf gehaald voor onze tocht met 6 vrienden in oostenrijk (glockner en schober gruppe) ik zal proberen om de salmhutte en de adolf-nossberger op de foto te zetten zodat deze ook op de site komen</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 22nd August 2003 - 07:22:03 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>52 : stan</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Ik mis de Plattkofelhutte in de dolomieten: mooi groot leuk !
+<br>en de Dibona hutte!</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 17th August 2003 - 10:20:58 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>51 : <a title="geenbelang@nospam.com" href="mailto:geenbelang@nospam.com">Nick</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Eergisteren sliep ik nog in de Chamanna da Tschierva, we waren opgekomen via Fuorcla Surlej (vertrokken in St. Moritz Bad) en zijn via Val Roseg teruggekeert. Een Must voor de echte liefhebbers</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 16th August 2003 - 01:35:57 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>50 : <a title="cj.schouten@quicknet.nl" href="mailto:cj.schouten@quicknet.nl">Cees Schouten</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Leuke site, ik wandel regelmatig met 6 zwagers een huttentocht van een paar dagen in Oostenrijk dus kan ik alle informatie goed gebruiken. Ondat het altijd maar voor een paar dagen is bijven we steeds in het zelfde gebied n.l. de Lechtaler alpen. Mischien kan ik via deze site eens een andere tocht van maximaal 4 dagen tegenkomen. Wegens drukke werkzaamheden van een paar zwagers hebben we helaas niet meer tijd. We vetrekken altijd op woensdagochtend om 04.00uur uit Enkhuizen om dezelfde dag nog in een hut te kunnen komen. Donderdag, vrijdag en zaterdag lopen we dan en zondag weer naar huis.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 10th August 2003 - 07:57:49 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>49 : <a title="lucdb1@msn.com" href="mailto:lucdb1@msn.com">luc de beuckelaer</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>dank zij deze site heb ik oostenrijk en zijn berghutten leren kennen en ik kan je alleen maar zeggen bedankt ik ben er aan verkocht.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 08th August 2003 - 08:49:53 AM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>48 : <a title="maeseva@hotmail.com" href="mailto:maeseva@hotmail.com">Eva</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Deze avond vertrekken we richting Wallis (Zwitserland). Deze site heeft mijn voorbereiding een stuk leuker en gemakkelijker gemaakt!
+<br>Alvast bedankt!</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 04th August 2003 - 06:18:32 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>47 : kees</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>leuke en nuttige site !!</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 02nd August 2003 - 09:05:36 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>46 : <a title="ja7cec@aol.com" href="mailto:ja7cec@aol.com">job arts</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Werkelijk de beste site die ik tot nu toe heb gezien, gefeliciteerd!
+<br>
+<br></b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 28th July 2003 - 09:39:16 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>45 : <a title="ilse_denayer@bluewin.ch" href="mailto:ilse_denayer@bluewin.ch">Wim</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>De hoeveelheid hutten die je al bezocht hebt, maakt iedere bergwandelaar jaloers...
+<br>Eentje die ik net gedaan heb: de Fridolinhuette in Zwitserland. Op 20/21 juli tweedaagse vanuit Linthal. 5 uur de eerste dag (van 800m naar 2100m). De tweede dag via een andere hut en dal terug naar beneden in zowat 7 uur (hoogteverloop: 2100 - 2500 - 1900 - 2500 - 800m).  Ik hoop de tijd eens te vinden enkele foto's in te scannen.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 13th July 2003 - 03:59:13 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>44 : <a title="debrant-deridder@village.uunet.be" href="mailto:debrant-deridder@village.uunet.be">Luc De Brant</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Pas deze week kon ik kennismaken met uw mooie intressante website. Zelf wandel ik graag in de bergen, maar ben geen alpinist. Ik wil wel reageren op de bijdrage over de natuur en het doembeeld van de opwarming. Het is niet de schuld van de mens dat de aarde opwarmt. In het jaar duizend was de aarde warmer, en groeideen er beuken en berken in Groenland, het land werd toen GROEN genoemd terwijl het nu bijna volledig bedekt is met ijs.
+<br>Alpinisten hebben meestal weinig intresse voor museums. In Zermat geeft de conservator vaak rondleidingen en vertelt daarbij dat er vele gletchers in de alpen voor 1500 niet bestonden. De Theodulepas was ijsvrij, en een gewone pas door de Romeinen gebruikt.
+<br>Jaarlijks bezochten de inwoners van Zermat hun familie in de vallei van de Herremance langs de bergpassen zonder extra kledij. Door de aanwas van IJs is deze gewoonte verdwenen rond 1600. Ook het davidsfonds heeft een boek gepubliceerd waarin op een historische wijze de toestand weergegeven wordt in het jaar duizend:&quot; Het jaar duizend.&quot;
+<br>
+<br>Wetenschappers aan Universiteiten krijgen geld van de overheid om te bewijzen dat de mens de schuld heeft aan de opwarming. Als ze bewijzen dat de mens geen schuld heeft krijgen ze ook geen geld. Dus ze creeëren rekenmodellen waar geen mens iets van begrijpt, en ondertussen blijft de overheid maar betalen.
+<br>De natuur heeft andere systemen. Een vulkaan als de Punatubo heeft meer gassen uigestoten dan de hele mensheid in de laatste twintig jaar, zwijgen we dan nog over de vele bosbranden, zoals in Indonesië enkele jaren geleden.
+<br>Maar ook de rijkdom van de Egyptenaren was afhankelijk van de grote overstromingen in de nijlvallei.
+<br>Hoe warmer de aarde is, hoe meer water verdampt wordt, hoe meer regen er is die voor afkoeling zorgt, hoe vruchtbaarder de aarde wordt.
+<br>
+<br>Tenslotte hebben de polietiekers door het klimaat een reden gevonden om belasting te heffen. O Ironie van het lot Onze regeerdes gaan lucht kopen in Rusland, het goede voorbeeld van natuur bescherming.
+<br>Dus geniet nog wat van het mooie weer, want daar zullen we binnenkort ook op moeten betalen.
+<br>Luc
+<br>Het hangt er dus van af
+<br>
+<br></b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 12th July 2003 - 11:07:19 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>43 : <a title="jltchernoff@hotmail.com" href="mailto:jltchernoff@hotmail.com">Jan Lucas</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Hoi Joris!
+<br>Mooie site! Super overzichtelijk en heel compleet. Als het goed is kom ik deze zomer in een paar italiaanse hutten die nog niet op je site staan, ik zal kijken of ik na de vakantie wat foto's naar je toe kan sturen!
+<br>Ga zo door en een fijne (berg)vakantie!
+<br>
+<br>                 Ciao,
+<br>                   Jan Lucas
+<br>                          (Bilthoven, Nederland)</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 04th July 2003 - 06:30:54 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>42 : <a title="ambersan@skynet.be" href="mailto:ambersan@skynet.be">liliane</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>zeer mooie foto's van hutten, vele ervan zijn we geweest, mooie herinneringen.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 03rd July 2003 - 08:28:44 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>41 : <a title="sneldijk@planet.nl" href="mailto:sneldijk@planet.nl">gitte snellen</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Leuke site.
+<br>Veel hutten. En dat komt goed uit. Wij gaan van de zomer wandelen in Duitsland en Oostenrijk en onze oudste zoon wil altijd &quot;wat eten of wat drinken&quot; het liefst natuurlijk in die gezellig knusse hutjes boven op een berg. Een hele stimulans om toch nog eventjes door te lopen (hij is pas 5)</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 01st July 2003 - 08:56:31 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>40 : <a title="tony_cannaerts@hotmail.com" href="mailto:tony_cannaerts@hotmail.com">cannaerts tony</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Gewoon mega leuke site, ik had wist niet dat er in europa zoveel hutten waren</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 19th June 2003 - 07:53:52 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>39 : <a title="hdspengler@t-online.de" href="mailto:hdspengler@t-online.de">hannelore spengler</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>super seite war sehr hilfreich bei der planung unserer hüttentour. danke !</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 18th June 2003 - 12:27:52 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>38 : yvan</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>mooie site, dank zij deze weet ik aan wat ik mij mag verwachten , ga dit jaar Zinal doen, gewoonweg prachtig.
+<br>geef graag mijn medewerking.
+<br>groeten
+<br></b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 16th June 2003 - 09:33:24 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>37 : <a title="david.vdb@wanadoo.be" href="mailto:david.vdb@wanadoo.be">David</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Prachtige site.  Ik heb er al veel nuttige info op gevonden, en wil met alle plezier mijn steentje bijdragen aan de verdere uitbreiding.
+<br>Groetjes,
+<br>David </b></font></td></tr></table><br><br>
+<p>&nbsp;</p>
+<a href="/guestbooks/main-gb.php?displayBegin=1"><tt>[</tt>1-18<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=19"><tt>[</tt>19-38<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=39"><tt>[</tt>39-58<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=59"><tt>[</tt>59-78<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=79"><tt>[</tt>79-98<tt>]</tt></a>
+</center>
+</body></html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl">
+<head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /><script type="text/javascript" src="incl/all.js"></script>
+<link rel="stylesheet" type="text/css" href="css/2.css" /><title>Laat topic zien...</title>
+</head><body><table align="center" border="0" width="640"><tr><td class="s">
+</td><td class="s" align="right">
+</td></tr><tr><td colspan="2">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td class="q">
+<table width="100%" border="0" cellspacing="1" cellpadding="5"><tr class="c"><td colspan="3">
+<table width="100%" cellpadding="2" cellspacing="0"><tr><td nowrap="nowrap"><span class="c"><a href="main.php" id="lnk" title="Klik hier om de laatste topics te zien..." style="color:#ffffff;text-decoration:none" onmouseover="start_impress();return true" onmouseout="stop_impress();return true" onclick="refresh(0);return false">HUTTEN.BE FORUM</a></span></td><td align="right" nowrap="nowrap"><b><a style="color:#ffffff" href="add.php?f=0&amp;topic=20041119223646">Toevoegen Verzenden</a></b></td></tr></table></td></tr>
+<tr class="z"><td class="f" width="20%" nowrap="nowrap">&nbsp;Auteur  / Onderwerp&nbsp;</td><td class="f" width="70%" nowrap="nowrap">&nbsp;Verzenden&nbsp;</td><td class="f" width="10%" nowrap="nowrap">&nbsp;Datum / Tijd&nbsp;</td></tr>
+
+<tr class="a"><td><b><img src="pics/w1.gif" width="11" height="14" alt="" border="0" hspace="2" />bert</b><br clear="all" /><img src="pics/b1.gif" width="14" height="14" alt="" hspace="1" align="left" /><b>trekkershut</b></td>
+<td class="s"> hallo allemaal. <br />wie oh wie weet of er trekkers-hutten zijn in omgeving van <br />WORTHERSEE? <br />alvast bedankt. <br />mvg bert </td><td class="s" nowrap="nowrap">19 Nov 2004 21:36</td></tr>
+<tr class="b"><td><b><img src="pics/w1.gif" width="11" height="14" alt="" border="0" hspace="2" />tzwitserkeuh</b><br clear="all" /><img src="pics/b1.gif" width="14" height="14" alt="" hspace="1" align="left" /><b>trekkershutten</b></td>
+<td class="s"> Hallo bert <br /> <br />Volgens mij zou je eens kontact moeten opnemen met de oostenrijkse diens voor toerisme of moet je even surfen naar <br />www.kaernten.at en daar kan je ook eventueel aanvraag doen voor hutten. <br />alvast veel plezier gewenst </td><td class="s" nowrap="nowrap">08 Dec 2004 21:09</td></tr>
+<tr class="a"><td><b><a class="j" href="#" onclick="usr('bergsteigerke');return false"><img src="pics/w1.gif" width="11" height="14" alt="" border="0" hspace="2" />bergsteigerke</a></b><br clear="all" /><img src="pics/b1.gif" width="14" height="14" alt="" hspace="1" align="left" /><b>Hutten info Oeav</b></td>
+<td class="s"> Hey, <br /> <br />Klik op deze link en je krijgt een lijstje van alle hutten in Kärnten. Hopelijk kun je met deze lijst een trektocht samenstellen. Alvast veel organisatie plezier toegewenst. <br /> <br /><a href="http://www.alpenvereinshuetten.at/huettenUebersicht.php?bundeslandId=3" target="_blank">http://www.alpenvereinshuetten.at/huettenUebersicht.php?bundeslandId=3</a> <br /> <br />Greetz  <br />Bergsteigerke <img src="pics/m6.gif" width="15" height="15" hspace="2" alt="" /> </td><td class="s" nowrap="nowrap">09 Dec 2004 15:48</td></tr>
+<tr class="b"><td class="f" colspan="2" height="20">&nbsp;<a href="add.php?f=0&amp;topic=20041119223646">Toevoegen Verzenden</a></td><td align="center" class="f" height="20"><a href="#" onclick="self.scrollTo(0,0);return false">Top</a></td></tr></table></td></tr></table>
+ 
+<a href="info.php" onclick="uri=escape(window.location.toString());uri='info.php?uri='+uri;window.open(uri,'inf','width=250,height=125');return false" title="about EasyForum!"><img src="pics/ef.gif" width="14" height="12" vspace="0" hspace="1" border="0" align="left" alt="about EasyForum!" /></a>
+<span class="f">0.055&nbsp;sec</span><br clear="all" /></td></tr></table></body></html>

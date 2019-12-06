@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl">
+<head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /><script type="text/javascript" src="incl/all.js"></script>
+<link rel="stylesheet" type="text/css" href="css/2.css" /><title>...</title></head><body>
+<form name="y" action="log.php" method="post"><input type="hidden" name="f" value="0" />
+<table width="280" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td class="q">
+<table width="100%" border="0" cellspacing="1" cellpadding="5">
+<tr class="c"><td><table width="100%" cellpadding="1" cellspacing="0"><tr><td nowrap="nowrap"><span class="c">Login</span></td><td align="right" nowrap="nowrap"><a href="fgtnp.php" title="Paswoord vergeten"><img src="pics/psw.gif" width="17" height="14" border="0" alt="Paswoord vergeten" /></a></td></tr></table></td></tr>
+<tr class="a"><td><table width="100%" cellspacing="6">
+<tr><td align="right" width="80"><b>Naam:</b></td><td align="right" width="220"><input size="25" type="text" name="enter_name" class="ia" maxlength="15" value="" /></td></tr>
+<tr><td align="right" width="80"><b>Passwoord:</b></td><td align="right" width="220"><input size="25" type="password" name="enter_pass" class="ia" maxlength="25" value="" /></td></tr>
+<tr><td colspan="2" align="right"><input type="submit" value="Toevoegen" class="ib" />
+</td></tr></table></td></tr></table></td></tr></table></form></body></html>

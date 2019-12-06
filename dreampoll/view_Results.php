@@ -1,0 +1,1 @@
+invalid request<br> SELECT * FROM poll_answers  WHERE answer_poll =  ORDER BY  answer_order 

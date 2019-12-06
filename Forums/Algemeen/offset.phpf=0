@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl">
+<head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /><script type="text/javascript" src="incl/all.js"></script>
+<link rel="stylesheet" type="text/css" href="css/2.css" /><title>...</title></head><body>
+<table align="center" border="0" cellpadding="0" cellspacing="0"><tr><td class="q">
+<table width="100%" border="0" cellspacing="1" cellpadding="5">
+<tr class="c"><td>Uw plaatselijke tijd</td></tr>
+<tr class="b"><td><table cellspacing="6"><tr><td class="s" nowrap="nowrap">
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-12';return false" style="text-decoration:none">14 Sep 2005 20:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-11';return false" style="text-decoration:none">14 Sep 2005 21:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-10';return false" style="text-decoration:none">14 Sep 2005 22:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-9';return false" style="text-decoration:none">14 Sep 2005 23:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-8';return false" style="text-decoration:none">15 Sep 2005 00:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-7';return false" style="text-decoration:none">15 Sep 2005 01:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-6';return false" style="text-decoration:none">15 Sep 2005 02:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-5';return false" style="text-decoration:none">15 Sep 2005 03:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-4';return false" style="text-decoration:none">15 Sep 2005 04:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-3';return false" style="text-decoration:none">15 Sep 2005 05:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-2';return false" style="text-decoration:none">15 Sep 2005 06:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=-1';return false" style="text-decoration:none">15 Sep 2005 07:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=0';return false" style="text-decoration:none;color:#ffffff">15 Sep 2005 08:51&nbsp;GMT</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=1';return false" style="text-decoration:none">15 Sep 2005 09:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=2';return false" style="text-decoration:none">15 Sep 2005 10:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=3';return false" style="text-decoration:none">15 Sep 2005 11:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=4';return false" style="text-decoration:none">15 Sep 2005 12:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=5';return false" style="text-decoration:none">15 Sep 2005 13:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=6';return false" style="text-decoration:none">15 Sep 2005 14:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=7';return false" style="text-decoration:none">15 Sep 2005 15:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=8';return false" style="text-decoration:none">15 Sep 2005 16:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=9';return false" style="text-decoration:none">15 Sep 2005 17:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=10';return false" style="text-decoration:none">15 Sep 2005 18:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=11';return false" style="text-decoration:none">15 Sep 2005 19:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=12';return false" style="text-decoration:none">15 Sep 2005 20:51</a><br />
+<a href="#" onclick="window.location='offset.php?f=0'+amp+'settime=13';return false" style="text-decoration:none">15 Sep 2005 21:51</a><br />
+</td></tr></table></td></tr></table></td></tr></table></body></html>

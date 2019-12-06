@@ -1,0 +1,682 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php" title="hutten.be Forumindex" />
+<link rel="search" href="./search.php" title="Zoeken" />
+<link rel="help" href="./faq.php" title="FAQ" />
+<link rel="author" href="./memberlist.php" title="Gebruikerslijst" />
+<link rel="prev" href="viewtopic.php?t=16&amp;view=previous" title="Vorige onderwerp" />
+<link rel="next" href="viewtopic.php?t=16&amp;view=next" title="Volgende onderwerp" />
+<link rel="up" href="viewforum.php?f=14" title="Actualiteit" />
+<link rel="chapter forum" href="viewforum.php?f=1" title="Hoe werkt dit forum?" />
+<link rel="chapter forum" href="viewforum.php?f=17" title="Nog vragen over dit forum?" />
+<link rel="chapter forum" href="viewforum.php?f=2" title="Duitsland" />
+<link rel="chapter forum" href="viewforum.php?f=3" title="Frankrijk" />
+<link rel="chapter forum" href="viewforum.php?f=4" title="Italië" />
+<link rel="chapter forum" href="viewforum.php?f=5" title="Oostenrijk" />
+<link rel="chapter forum" href="viewforum.php?f=6" title="Spanje" />
+<link rel="chapter forum" href="viewforum.php?f=7" title="Zwitserland" />
+<link rel="chapter forum" href="viewforum.php?f=8" title="Andere landen" />
+<link rel="chapter forum" href="viewforum.php?f=9" title="Ervaringen" />
+<link rel="chapter forum" href="viewforum.php?f=10" title="Routebeschrijvingen" />
+<link rel="chapter forum" href="viewforum.php?f=11" title="Voor de klimmers" />
+<link rel="chapter forum" href="viewforum.php?f=12" title="Reisverslagen" />
+<link rel="chapter forum" href="viewforum.php?f=13" title="Vakantieverblijven" />
+<link rel="chapter forum" href="viewforum.php?f=14" title="Actualiteit" />
+<link rel="chapter forum" href="viewforum.php?f=15" title="Test jouw kennis" />
+<link rel="chapter forum" href="viewforum.php?f=16" title="Humor" />
+<link rel="chapter forum" href="viewforum.php?f=18" title="Café" />
+
+<title>hutten.be :: Onderwerp bekijken - Wolven en beren in de Alpen</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+        background-color: #E5E5E5;
+        scrollbar-face-color: #DEE3E7;
+        scrollbar-highlight-color: #FFFFFF;
+        scrollbar-shadow-color: #DEE3E7;
+        scrollbar-3dlight-color: #D1D7DC;
+        scrollbar-arrow-color:  #006699;
+        scrollbar-track-color: #EFEFEF;
+        scrollbar-darkshadow-color: #98AAB1;
+}
+
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover                { text-decoration: underline; color : #DD6900; }
+hr        { height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline        { background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline        { background-color: #FFFFFF; border: 2px #006699 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1        { background-color: #EFEFEF; }
+td.row2        { background-color: #DEE3E7; }
+td.row3        { background-color: #D1D7DC; }
+
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+                background-color: #FFFFFF;
+                background-image: url(templates/subSilver/images/cellpic2.jpg);
+                background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th        {
+        color: #FFA34F; font-size: 11px; font-weight : bold;
+        background-color: #006699; height: 25px;
+        background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+                        background-image: url(templates/subSilver/images/cellpic1.gif);
+                        background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 28px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+        height: 29px;
+        border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+        font-weight: bold; border: #FFFFFF; border-style: solid; height: 28px;
+}
+td.row3Right,td.spaceRow {
+        background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow         { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right         { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft          { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop         { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle        {
+        font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+        text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #006699; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover        { color: #DD6900; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu                { font-size : 11px; color : #000000 }
+a.mainmenu                { text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle                { font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #006699}
+a.cattitle                { text-decoration: none; color : #006699; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink                { font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink         { text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav                        { font-weight: bold; font-size: 11px; color : #000000;}
+a.nav                        { text-decoration: none; color : #006699; }
+a.nav:hover                { text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2        { font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover        { text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name                        { font-size : 11px; color : #000000;}
+
+/* Location, number of posts, post date etc */
+.postdetails                { font-size : 10px; color : #000000; }
+
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+a.postlink:link        { text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+        font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+        background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+        border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+        font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+        background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+        border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+/* Copyright and bottom info */
+.copyright                { font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright                { color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+        color : #000000;
+        font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+        border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+        background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+        background-color : #EFEFEF;
+        color : #000000;
+        font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+        background-color : #FAFAFA;
+        font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+        background-color : #FAFAFA;
+        font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+<body bgcolor="#E5E5E5" text="#000000" link="#006699" vlink="#5493B4">
+
+<a name="top"></a>
+
+<table width="100%" cellspacing="0" cellpadding="10" border="0" align="center">
+        <tr>
+                <td class="bodyline"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+                        <tr>
+                                <td>
+
+                                <td align="center" width="100%" valign="middle"><span class="maintitle">hutten.be</span><br /><span class="gen">We zijn er om mekaar te helpen, nietwaar?<br />&nbsp; </span>
+                                <table cellspacing="0" cellpadding="2" border="0">
+                                        <tr>
+                                                <td align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="faq.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a>&nbsp; &nbsp;<a href="search.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Zoeken" hspace="3" />Zoeken</a>&nbsp; &nbsp;<a href="memberlist.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Gebruikerslijst" hspace="3" />Gebruikerslijst</a>&nbsp; &nbsp;<a href="groupcp.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Gebruikersgroepen" hspace="3" />Gebruikersgroepen</a>&nbsp;
+                                                &nbsp;<a href="profile.php?mode=register" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Registreren" hspace="3" />Registreren</a>&nbsp;
+                                                </span></td>
+                                        </tr>
+                                        <tr>
+                                                <td height="25" align="center" valign="top" nowrap="nowrap"><span class="mainmenu">&nbsp;<a href="profile.php?mode=editprofile" class="mainmenu"><img src="templates/subSilver/images/icon_mini_profile.gif" width="12" height="13" border="0" alt="Profiel" hspace="3" />Profiel</a>&nbsp; &nbsp;<a href="privmsg.php?folder=inbox" class="mainmenu"><img src="templates/subSilver/images/icon_mini_message.gif" width="12" height="13" border="0" alt="Log in om je priv&eacute;berichten te bekijken" hspace="3" />Log in om je priv&eacute;berichten te bekijken</a>&nbsp; &nbsp;<a href="login.php" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Inloggen" hspace="3" />Inloggen</a>&nbsp;</span></td>
+                                        </tr>
+                                </table></td>
+                        </tr>
+                </table>
+
+                <br />
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewtopic.php?t=16&amp;start=0&amp;postdays=0&amp;postorder=asc&amp;highlight=">Wolven en beren in de Alpen</a><br />
+	  <span class="gensmall"><b></b><br />
+	  &nbsp; </span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+	<td align="left" valign="bottom" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=14"><img src="templates/subSilver/images/lang_dutch/post.gif" border="0" alt="Nieuw onderwerp plaatsen" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=16"><img src="templates/subSilver/images/lang_dutch/reply.gif" border="0" alt="Reageren" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">hutten.be Forumindex</a>
+	  -> <a href="viewforum.php?f=14" class="nav">Actualiteit</a></span></td>
+  </tr>
+</table>
+
+<table class="forumline" width="100%" cellspacing="1" cellpadding="3" border="0">
+	<tr align="right">
+		<td class="catHead" colspan="2" height="28"><span class="nav"><a href="viewtopic.php?t=16&amp;view=previous" class="nav">Vorige onderwerp</a> :: <a href="viewtopic.php?t=16&amp;view=next" class="nav">Volgende onderwerp</a> &nbsp;</span></td>
+	</tr>
+	
+	<tr>
+		<th class="thLeft" width="150" height="26" nowrap="nowrap">Auteur</th>
+		<th class="thRight" nowrap="nowrap">Bericht</th>
+	</tr>
+	<tr>
+		<td width="150" align="left" valign="top" class="row1"><span class="name"><a name="23"></a><b>score</b></span><br /><span class="postdetails">Site Admin<br /><br /><br />Geregistreerd op: 03 Jan 2007<br />Berichten: 1<br /></span><br /></td>
+		<td class="row1" width="100%" height="28" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="100%"><a href="viewtopic.php?p=23#23"><img src="templates/subSilver/images/icon_minipost.gif" width="12" height="9" alt="Bericht" title="Bericht" border="0" /></a><span class="postdetails">Geplaatst: Wo Nov 01, 2006 4:16 am<span class="gen">&nbsp;</span>&nbsp; &nbsp;Onderwerp: Wolven en beren in de Alpen</span></td>
+				<td valign="top" nowrap="nowrap"><a href="posting.php?mode=quote&amp;p=23"><img src="templates/subSilver/images/lang_dutch/icon_quote.gif" alt="Reageren met citaat" title="Reageren met citaat" border="0" /></a>   </td>
+			</tr>
+			<tr>
+				<td colspan="2"><hr /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><span class="postbody">Honderden schapen werden reeds het slachtoffer van wolven en beren in de Alpen. Natuurliefhebbers willen ze houden, boeren zien ze liever vertrekken. De mening van de bergtoerist, bergwandelaar en bergbeklimmer werd tot op heden niet gevraagd. Naar aanleiding van het recente artikel dat u hier in Focus kan lezen over de terugkeer van wolven en beren in het Zwitserse Graubunden wil ik hiermede de discussie openen. 
+<br />
+In het artikel wordt duidelijk gewezen op de weliswaar uitzonderlijke maar niettemin bestaande gevaren voor de mens die het pad van deze dieren kruist. 
+<br />
+Vindt u het een goede zaak dat er weer wolven en beren zijn ?
+<br />
+Honderden jaren geleden toen er nog wolven en beren waren liepen de mensen ook steeds gewapend de bergen in, nu is wapendracht, mits enkele uitzonderingen, verboden. Vindt u niet dat men wapendracht dan maar weer moet toestaan ?
+<br />
+Als men wolven en beren jaren geleden heeft uitgeroeid, had dit wel een reden, is men deze reden dan al lang vergeten ?
+<br />
+Je kan niet ontkennen dat het weer uitzetten van wolven en beren talrijke vragen oproept. Bij deze nodig ik dan ook voor- en tegenstanders uit in dit forum hun mening, en aldus een beetje opheldering, te geven.
+<br />
+
+<br />
+Dit waren alvast de reacties in het vorige forum:
+<br />
+-------------------------------------------
+<br />
+
+<br />
+Enig nadeel van wapendracht is wel het extra gewicht... bovenop de al zwaarbeladen trekkers-rugzak. 
+<br />
+Zeker als men enige dagen onderweg is. Mijn rugzakje weegt dikwijls meer dan 12 kg, en dan nog een wapen en munitie meezuilen... Ik stel voor om pijl en boog meetenemen. 
+<br />
+En wat gaat men doen met diegenen die met geen wapen overweg kunnen?
+<br />
+In princiep ben ik er wel voor te vinden dat één persoon in de groep een jachtwapen meeheeft. Maar janenalleman met een wapen... nee dat liever niet.
+<br />
+Ik wil hier nog aan toevoegen dat men beter een wapen in zijn mobilhome bijheeft... als men s nachts op een verlaten parking gaat slapen.
+<br />
+mvg
+<br />
+Jan
+<br />
+-----------------------------------
+<br />
+
+<br />
+Joris,
+<br />
+
+<br />
+Wapendracht weer toestaan?? Volgens mij gaat dat een beetje ver, sowieso vraag ik me af op wie of wat er dan geschoten gaat worden....
+<br />
+
+<br />
+Wolven en beren zijn inderdaad uitgeroeid. Ze zijn echter niet allemaal afgeschoten, ook door het steeds kleiner worden van hun leefomgeving hebben ze zich steeds verder teruggetrokken. Het uitroeien werd echter wel in een tijd gedaan dat er nog heel veel raadsels waren omtrent deze dieren, deze zijn nu eigenlijk allemaal opgelost. 
+<br />
+Als je van mening bent dat er een goede reden was om ze uit te roeien mag je me uitleggen waarom we niet alle grote zoogdieren (zeg groter dan een muis, ook een hermelijn is een echter moordenaar) uitroeien. In Afrika komen er jaarlijks mensen om door aanvallen van leeuwen, olifanten etc. 
+<br />
+Ik ben van mening dat deze dieren een plaats hebben in de alpen en dat mensen niet zo arrogant moeten zijn te denken dat ze recht hebben op alle ruimte. Tuurlijk brengt het vragen met zich mee, alleen laten we wel beseffen dat het wapentuig wat in verleden werd meegenomen vaak niet zozeer tegen dieren was als wel tegen rovers en ander gespuis. Dieren in het algemeen leven een behoorlijk teruggetrokken bestaan en zullen vrijwel altijd mensen mijden.
+<br />
+
+<br />
+Graag van eenieder een reactie. 
+<br />
+Frank
+<br />
+---------------------------------
+<br />
+
+<br />
+Begrijp me niet verkeerd, ik pleit hier niet om gewapend de bergen in te trekken, ik stel me gewoon de vraag wat te doen in de veronderstelling dat je met een kind van, bijvoorbeeld 4 jaar, in de bergen tegenover een roedel hongerige wolven komt te staan. Zo’n kind zou wel eens best voor een hapklare brok aanzien kunnen worden. Eén wolf kan je wellicht nog aan, maar een ganse groep ???? En dan nog zonder enig middel van verweer ???? ‘t Zal je maar overkomen.
+<br />
+De natuurbeschermers die ervoor gepleit hebben om de wolven weer uit te zetten, want hier is geen sprake van natuurlijke terugkeer, mogen mij wel eens uitleggen wat hun bezielde om de veiligheid van de bergwandelaars en klimmers in het gedrang te brengen. Je gaat mij toch niet vertellen dat er een overpopulatie van marmotten of gemzen is. Jagers houden immers het wildbestand onder controle, geen nood aan wolven of beren dus. Leg mij dus maar uit waarom dit nodig was, ik wil het graag begrijpen.
+<br />
+Joris
+<br />
+---------------------------------------
+<br />
+
+<br />
+Oke, ik snap wat je bedoeld, maar zoals ik al zei zullen dieren niet zo snel mensen aanvallen. Jagen om het aantal marmotten, gemsen, reeën etc. op peil te houden is behoorlijk tegen natuurlijk. Daarnaast weet een roofdier veel beter in te schatten welk dier het zwakste is uit een groep dan een jager. Tevens ruimen ze aas op.
+<br />
+Ik ben er ook voor dat de veiligheid van klimmers en wandelaars niet in het geding komt, echter weet ik vrijwel zeker dat na het uitzetten van wolven en beren nog steeds meer mensen door hun eigen inschattingsfouten of gewoon door domme pech naar beneden storten dan worden aangevallen door deze dieren. 
+<br />
+Ik proef voornamelijk angst voor het uitzetten van deze dieren omdat er een zweem van gevaar om heen hangt. Echter, we schieten toch ook niet alle kraaien af omdat die ook weleens een mens aanvallen (mensen komen dan te dicht bij het nest)? Mensen zijn een onderdeel van de natuur en zullen daarmee moeten leren leven, we kunnen nooit alle gevaren uitschakelen. 
+<br />
+Het uitzetten van deze dieren geeft mensen ook de unieke kans om zulke dieren tegen te komen... ooit wel eens een gems of steenbok in het wild gezien? gewoonweg geweldig om daar naar te kijken. Je moet, echter ook deze dieren, netzo als een koe, niet in de weg gaan lopen. Een kat (koe) in het nauw maakt rare sprongen. Mijns inziens is er meer als genoeg ruimte in de alpen. 
+<br />
+Frank
+<br />
+-----------------------------------------
+<br />
+
+<br />
+Mensen,
+<br />
+Laat ons niet het laatste stukje natuur, dat nog over blijft in de reeds verkrachte alpen, ook nog eens vernietigen. Dat men een deeltje van die natuur terugschenkt door er beren en wolven in uit te zetten vind ik een uitstekende zaak. 
+<br />
+Dat er een tendens is dat bergliften misschien wel zouden verdwijnen vind ik een goede zaak.
+<br />
+De Alpen hebben al veel van hun charme verloren van wat echte natuurliefhebbers en avonturiers ginds gingen zoeken. Dat zal nooit terugkomen, ik maak me daar geen illusies over.
+<br />
+
+<br />
+Maar wapendracht ?? nee die beestjes zijn schuchter en een gecontroleerde manier van uitzetten kan geen problemen opleveren. Gecontroleerd ? Jawel een beer zal niet een dorp binnenkomen, een beer kan men ook zijn habitat beperken, voederen, ... Dus absoluut geen bezwaar en 200 % voorstander. 
+<br />
+Alleen, als ze dat doen, koppel dit dan aan een goede sensibiliseringsactie van bevolking en toeristen. Waar er beren zitten, ga daar dan geen schapen zetten he. Dat is zoiets als de kat bij de melk zetten he. Maar die beesten ... de natuur verdient vast en zeker ook zijn plaats.
+<br />
+En het is aan Zwitserland ook eens tijd om een duitje in het milieuzakje te doen, na het milieuschandaal in Zermatt (zie artikeltje hier) maar ook wetende dat de grootste vervuiler van de Rijn, Zwitserland is !! 
+<br />
+
+<br />
+Dus nee aan wapens, ja aan de beestjes, en een stop aan de toeristisch economische wildgroei.
+<br />
+Tim 
+<br />
+-------------------------------
+<br />
+
+<br />
+Ik begrijp die voorstanders van beren en wolven niet. Beren zijn niet schuw en ze worden wel in dorpen gesignaleerd. Enige tijd geleden werd er één opgemerkt in Oostenrijk die in vuilnisbakken op zoek was naar eten. Je zal je kind maar in de tuin hebben spelen. Dat zo’n beer best wel agressief kan zijn bewijst het voorval in Roemenië waarbij één beer, in één voorval, 11 mensen zwaar toetakelde. Resultaat: een dode en 9 zwaargewonden, waarvan 6 in levensgevaar. Jaarlijks doden beren mensen, je kan er niet omheen. Dat ze jaren geleden uit de Alpen werden verdreven zal echt wel z’n reden hebben gehad. Daardoor hebben de Alpen niets van hun charme verloren. Als je dat zou geloven zou je niet meer de bergen intrekken. 
+<br />
+Er is genoeg fauna en flora om steeds weer verwonderd te zijn. Daar heb ik geen beren en wolven voor nodig. Als je een foto van een beer in vrije natuur wilt nemen, ga dan naar Roemenië, dan weet je vooraf dat je dit risico loopt, maar breng het leven van de alpenliefhebber, en al die mensen die er hun brood mee verdienen (veetelers, landbouwers, en alles rond toerisme) niet in gevaar door die beesten terug uit te zetten. Ik wil, als ik met  kinderen, zelfs zonder, geen beer of wolven op mijn pad tegenkomen. Geen risico’s nemen, heet dat. Een gezonde portie verantwoordelijkheidsgevoel. 
+<br />
+Joris
+<br />
+-----------------------------------
+<br />
+
+<br />
+Wij waren deze zomer in Canada, waar nog alom beren in het wild leven. Nog nooit zo'n proper land gezien, dat zo bewust met afval omgaat! Net om de beren niet aan mensen gewoon te maken, is iedereen zich ervan bewust dat rondslingeren van afval enkel beren lokt. Alle vuilnisbakken zijn dan ook 'bear-proof', dwz onmogelijk dat een beer een vuilnisbak kan openen. Hij zal dan ook niet geneigd zijn om naar een dorp te trekken, hij kan er toch niks vinden. 
+<br />
+Indien dit wel gebeurt, dan wordt die beer gevolgd en bij een herhaling wordt hij gevangen en een aantal 100km verder terug uitgezet. Gebeurt hetzelfde nogmaals, wordt hij onverbiddelijk afgemaakt. 
+<br />
+Hoe mensen zich daar tegen beren weren? Een aantal basisregels oa geen eten bij je in de tent laten, sterke geuren vermijden, lawaai maken (babbelen, zingen, fluiten,...) als je aan het wandelen bent en bij geval van een agressieve beer pepperspray gebruiken. Dit wordt ginds in alle outdoor-winkels verkocht en is een soort 'brandblusser' waarmee je in 10sec, 5m ver pepperspray op de beer 'afvuurt'. 
+<br />
+Alles draait hem ginds dus om mensen bekend te maken met hoe je je moet gedragen in een beren-omgeving. 
+<br />
+Kriske
+<br />
+---------------------------------------
+<br />
+
+<br />
+Heey 
+<br />
+
+<br />
+Ik ga me nu even heel onpopulair maken, maar ik wil me toch achter Kriske en Tim scharen. 
+<br />
+
+<br />
+Beren en wolven hebben altijd in de alpen gewoond, het is hun natuurlijke habbitat. Mensen, egoïstische mensen hebben ze verdreven, afgemaakt. Ze zochten hun nesten op, verkleinden hun woongebied en zorgden er zo voor dat ze dorpen wel moesten binnenvallen om te overleven. 
+<br />
+
+<br />
+Beren en wolven zijn van nature schuwe beesten, en zullen zelden, dan wel nooit een groep mensen aanvallen. Enkel zij die te dichtbij komen, of hen bedreigen lopen een serieus risico. 
+<br />
+Laten we even wel wezen, en beseffen dat Nijlpaarden vele malen meer mensen doden dan wolven en beren bij elkaar. Maar wie was er ooit van plan om die af te maken? 
+<br />
+
+<br />
+Welk een egoïsten zijn wij - die menen superieur te zijn boven alle andere levensvormen - die wolven en beren verbieden daar te gaan wonen, waar zij thuishoren. 
+<br />
+
+<br />
+Ook ik wil met een veilig gevoel gaan wandelen in de bergen, en een verdovingspistool of pepperspray vind ik dan ook toegestaan, maar ik ga daarheen voor de bergen en de natuur. En tot die natuur behoren beren. 
+<br />
+Aan alle mensen die zogezegd gaan wandelen voor de natuur maar geen enkel risico willen lopen zeg ik: &quot;Ga naar het park&quot; 
+<br />
+greetz 
+<br />
+Alpinisje.
+<br />
+--------------------------------
+<br />
+
+<br />
+Naar mijn weten zijn er geen beren in alpen wel nog een handvol in pyreneeen. De kans ik groter dat je de lotto wint dan een beer tegen te komen 
+<br />
+Mindstorm
+<br />
+-------------------------------
+<br />
+
+<br />
+Ik wandel al 5 jaar in het oetschergebiet in de nederoostenrijkse alpen heb nooit een beer tegengekomen en zal er nooit een tegenkomen 
+<br />
+instinctief als een beer een mens ruikt verstopt hij zich 
+<br />
+gevaar is er alleen als je een moeder met jongen tegekomt en dan nog kan je hem ontwijken 
+<br />
+eerst waren de lokale jagers en boeren er tegen 
+<br />
+nu zijn ze erg welkom omdat ze de kadavers van de dieren opeten dat betekent minder ziektes voor de jongere herten gemsen dus mooiere trofees voor de jawel de jagers 
+<br />
+ik ken deze streek heel goed en de mentaliteit van de lokale bevolking heel goed en de discusie en de hele hypocrisie van het wildbeheer 
+<br />
+Dimi V.
+<br />
+--------------------------------
+<br />
+
+<br />
+Beste mensen, bergliefhebbers e.a. 
+<br />
+
+<br />
+Ik heb jullie reacties zitten lezen en heb zitten denken. 
+<br />
+Jullie geven volgens mij allemaal samen de perfecte oplossing. 
+<br />
+Hier of daar begrijp ik Joris (ik deel zijn mening niet, maar kan hem wel begrijpen in zijn bezorgdheid) 
+<br />
+Hij heeft waarschijnlijk zelf kinderen en ziet zo'n beer zijn eigen kind al oppeuzelen... je zou voor minder schrik krijgen natuurlijk. 
+<br />
+Maar tevens wordt er aangehaald (door Kriske dacht ik, over Canada ofzo) dat een van de grote factoren de mens is. 
+<br />
+Onze (blijkbaar natuurlijke) drang tot bemoeizucht en controlen en overheersen van alles wat op de aarde rondloopt leidt tot dit soort van taferelen. 
+<br />
+Laat de natuur gerust en er is geen probleem! 
+<br />
+Eerst gaat de mens alles verstoren, en nadien zeggen ze dat er een probleem is... de beren lopen in onze weg! tiens tiens... ben ik de enige die dit zo'n zot idee vindt?? 
+<br />
+
+<br />
+als je maakt dat de beren geen eten vinden, geraken ze ook niet gewoon aan de mens en zullen ze niet komen zoeken. 
+<br />
+Het is eens het moment is gekomen dat ze mensen associeren met eten dat het hek van de dam is. 
+<br />
+
+<br />
+Kijk nu eens naar de bergen... 
+<br />
+Mooi toch? Al die bergflanken, met hoog op de toppen sneeuw, de groene bomen, de frisse berglucht die je longen vult, wetende dat je naar een brok puur natuur aan 't kijken bent met wat beestjes in zoals beren en wolven, vogels, marmotten,. . . en natuurlijk wat skiliften en teleferiques die het landschap sieren!!!! Wie is er eigenlijk het beest? 
+<br />
+
+<br />
+Ik neem misschien voor sommigen een extreem standpunt aan, maar ik verafschuw die skiliften en berghutten 
+<br />
+Als ik naar de bergen ga wandel ik naar boven, slaap ik in een tent, draag ik alles mee naar boven. en wat misschien nog belangrijker is: neem ik ook álles mee terug naar beneden. Ze zullen niet weten dat ik daar ben geweest. Ik ben bezoeker op hun terrein, ik eigen me de bergen niet toe. 
+<br />
+
+<br />
+Ooit de mont blanc beklommen??? Echt een aanrader! vooral in de overbevolkte hutten kruipen, tussen het massatoerisme, die willen dat alles wijkt en het enige dat na een tijd nog geldt is het thuiskomen en kunnen zeggen ik heb de berg &quot;bedwongen&quot;! alleen al dat laatste woord geeft me de kriebels. Willen de mensen dan echt alles naar hun hand zetten??? 
+<br />
+
+<br />
+Ik ga stoppen met &quot;zeuren&quot; (voor sommigen dan toch waarschijnlijk) want ik zou nog talrijke voorbeelden kunnen aanhalen. 
+<br />
+
+<br />
+Heb respect voor de natuur, mensen alstublieft. 
+<br />
+Vergeet niet dat jullie ondanks de grote auto's en villa's 
+<br />
+er ook een stuk deel van uitmaken. 
+<br />
+
+<br />
+Mensen, travel the world with respect, remember: we are all one! 
+<br />
+
+<br />
+Groeten 
+<br />
+Peter 
+<br />
+--------------------------------------
+<br />
+
+<br />
+Zie nu.... We tolereren geen everzwijnen en herten in de Brugse bossen. (Er is inmiddels een klopjacht aan de gang om een vijftiental everzwijnen en een vijftal edelherten te doden) Nochthans vormen zij geen enkele bedreiging voor de mens, waren zij hier vroeger ook aanwezig en is dit hun natuurlijke biotoop. Maar beren en wolven in de Alpen, dat moet wel kunnen. Waar zijn we mee bezig ? 
+<br />
+Joris
+<br />
+-----------------------------------
+<br />
+
+<br />
+Ik bekijk voor het eerst deze site en zie tot mijn grote verbazing de stelling ten aanzien van wolven en beren. Ik ben van mening dat het al een uitzonderlijke situatie is indien je uberhaupt een wolf of beer te zien krijgt. Wat een onzinnige stelling ! 
+<br />
+Erwin Tromp
+<br />
+----------------------------------
+<br />
+
+<br />
+Zitten er echt beren en wolven in de Alpen? Dat lijkt me toch wel kras want die kunnen daar toch nooit overleven! De mens heeft al minstens de helft van de wilde natuur verprutst. 
+<br />
+
+<br />
+Ik was van plan een tochtje met de tent te maken in de Oostenrijkse Alpen deze zomer. Misschien toch die berehistorie effe checken.   
+<br />
+Eddy
+<br />
+---------------------------------
+<br />
+
+<br />
+Wo.... ik zie nu hoeveel dingen er hier op deze site staat ik geef je een grote kompliment van de 
+<br />
+
+<br />
+politie almere 
+<br />
+--------------------------------
+<br />
+
+<br />
+En jij ? Wat den jij hierover ?</span><span class="gensmall"></span></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="row1" width="150" align="left" valign="middle"><span class="nav"><a href="#top" class="nav">Terug naar boven</a></span></td>
+		<td class="row1" width="100%" height="28" valign="bottom" nowrap="nowrap"><table cellspacing="0" cellpadding="0" border="0" height="18" width="18">
+			<tr>
+				<td valign="middle" nowrap="nowrap"><a href="profile.php?mode=viewprofile&amp;u=2"><img src="templates/subSilver/images/lang_dutch/icon_profile.gif" alt="Profiel bekijken" title="Profiel bekijken" border="0" /></a> <a href="privmsg.php?mode=post&amp;u=2"><img src="templates/subSilver/images/lang_dutch/icon_pm.gif" alt="Stuur priv&eacute;bericht" title="Stuur priv&eacute;bericht" border="0" /></a>     <script language="JavaScript" type="text/javascript"><!--
+
+	if ( navigator.userAgent.toLowerCase().indexOf('mozilla') != -1 && navigator.userAgent.indexOf('5.') == -1 && navigator.userAgent.indexOf('6.') == -1 )
+		document.write(' ');
+	else
+		document.write('</td><td>&nbsp;</td><td valign="top" nowrap="nowrap"><div style="position:relative"><div style="position:absolute"></div><div style="position:absolute;left:3px;top:-1px"></div></div>');
+
+				//--></script><noscript></noscript></td>
+			</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td class="spaceRow" colspan="2" height="1"><img src="templates/subSilver/images/spacer.gif" alt="" width="1" height="1" /></td>
+	</tr>
+	<tr align="center">
+		<td class="catBottom" colspan="2" height="28"><table cellspacing="0" cellpadding="0" border="0">
+			<tr><form method="post" action="viewtopic.php?t=16&amp;start=0">
+				<td align="center"><span class="gensmall">Berichten van afgelopen: <select name="postdays"><option value="0" selected="selected">Alle berichten</option><option value="1">1 Dag</option><option value="7">7 Dagen</option><option value="14">2 Weken</option><option value="30">1 Maand</option><option value="90">3 Maanden</option><option value="180">6 Maanden</option><option value="364">1 Jaar</option></select>&nbsp;<select name="postorder"><option value="asc" selected="selected">Oudste eerst</option><option value="desc">Nieuwste eerst</option></select>&nbsp;<input type="submit" value="OK" class="liteoption" name="submit" /></span></td>
+			</form></tr>
+		</table></td>
+	</tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="middle" nowrap="nowrap"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=14"><img src="templates/subSilver/images/lang_dutch/post.gif" border="0" alt="Nieuw onderwerp plaatsen" align="middle" /></a>&nbsp;&nbsp;&nbsp;<a href="posting.php?mode=reply&amp;t=16"><img src="templates/subSilver/images/lang_dutch/reply.gif" border="0" alt="Reageren" align="middle" /></a></span></td>
+	<td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php" class="nav">hutten.be Forumindex</a>
+	  -> <a href="viewforum.php?f=14" class="nav">Actualiteit</a></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="gensmall">Tijden zijn in GMT - 8 uur</span><br /><span class="nav"></span>
+	  </td>
+  </tr>
+  <tr>
+	<td align="left" colspan="3"><span class="nav">Pagina <b>1</b> van <b>1</b></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td width="40%" valign="top" nowrap="nowrap" align="left"><span class="gensmall"></span><br />
+	  &nbsp;<br />
+	  </td>
+	<td align="right" valign="top" nowrap="nowrap">
+<form method="get" name="jumpbox" action="viewforum.php" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Ga naar:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Kies een forum</option><option value="-1">&nbsp;</option><option value="-1">Over het forum</option><option value="-1">----------------</option><option value="1">Hoe werkt dit forum?</option><option value="17">Nog vragen over dit forum?</option><option value="-1">&nbsp;</option><option value="-1">Landeninformatie</option><option value="-1">----------------</option><option value="2">Duitsland</option><option value="3">Frankrijk</option><option value="4">Italië</option><option value="5">Oostenrijk</option><option value="6">Spanje</option><option value="7">Zwitserland</option><option value="8">Andere landen</option><option value="-1">&nbsp;</option><option value="-1">Berghutten</option><option value="-1">----------------</option><option value="9">Ervaringen</option><option value="10">Routebeschrijvingen</option><option value="-1">&nbsp;</option><option value="-1">Bergtoppen</option><option value="-1">----------------</option><option value="11">Voor de klimmers</option><option value="-1">&nbsp;</option><option value="-1">Diversen</option><option value="-1">----------------</option><option value="12">Reisverslagen</option><option value="13">Vakantieverblijven</option><option value="14"selected="selected">Actualiteit</option><option value="15">Test jouw kennis</option><option value="16">Humor</option><option value="18">Café</option></select><input type="hidden" name="sid" value="482a85e81add0f22d780048fea751b7e" />&nbsp;<input type="submit" value="OK" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+<span class="gensmall">Je <b>mag geen</b> nieuwe onderwerpen plaatsen in dit subforum<br />Je <b>mag geen</b> reacties plaatsen in dit subforum<br />Je <b>mag</b> je berichten <b>niet</b> bewerken in dit subforum<br />Je <b>mag</b> je berichten <b>niet</b> verwijderen in dit subforum<br />Je <b>mag niet</b> stemmen in polls in dit subforum<br /></span></td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br />Vertaling door <a href="http://www.warpcore.tk/" target="_blank">Lennart Goosens</a>.</span></div>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
+

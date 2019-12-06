@@ -1,0 +1,12 @@
+<br />
+<b>Warning</b>:  fopen(data/FB/www.freytagberndt.at_shop_list.php?id=755.dat) [<a href='http://www.php.net/function.fopen'>function.fopen</a>]: failed to create stream: Permission denied in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>57</b><br />
+<br />
+<b>Warning</b>:  fgets(): supplied argument is not a valid stream resource in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>58</b><br />
+<br />
+<b>Warning</b>:  fseek(): supplied argument is not a valid stream resource in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>60</b><br />
+<br />
+<b>Warning</b>:  fputs(): supplied argument is not a valid stream resource in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>61</b><br />
+<br />
+<b>Warning</b>:  fclose(): supplied argument is not a valid stream resource in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/sites/site21/web/clic-fb.php:57) in <b>/home/sites/site21/web/clic-fb.php</b> on line <b>67</b><br />

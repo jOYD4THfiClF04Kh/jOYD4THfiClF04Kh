@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl">
+<head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" /><script type="text/javascript" src="incl/all.js"></script>
+<link rel="stylesheet" type="text/css" href="css/2.css" /><title>Laat topic zien...</title>
+</head><body><table align="center" border="0" width="640"><tr><td class="s">
+</td><td class="s" align="right">
+</td></tr><tr><td colspan="2">
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td class="q">
+<table width="100%" border="0" cellspacing="1" cellpadding="5"><tr class="c"><td colspan="3">
+<table width="100%" cellpadding="2" cellspacing="0"><tr><td nowrap="nowrap"><span class="c"><a href="main.php" id="lnk" title="Klik hier om de laatste topics te zien..." style="color:#ffffff;text-decoration:none" onmouseover="start_impress();return true" onmouseout="stop_impress();return true" onclick="refresh(0);return false">HUTTEN.BE FORUM</a></span></td><td align="right" nowrap="nowrap"><b><a style="color:#ffffff" href="add.php?f=0&amp;topic=20041029081915">Toevoegen Verzenden</a></b></td></tr></table></td></tr>
+<tr class="z"><td class="f" width="20%" nowrap="nowrap">&nbsp;Auteur  / Onderwerp&nbsp;</td><td class="f" width="70%" nowrap="nowrap">&nbsp;Verzenden&nbsp;</td><td class="f" width="10%" nowrap="nowrap">&nbsp;Datum / Tijd&nbsp;</td></tr>
+
+<tr class="a"><td><b><img src="pics/w1.gif" width="11" height="14" alt="" border="0" hspace="2" />danny</b><br clear="all" /><img src="pics/b1.gif" width="14" height="14" alt="" hspace="1" align="left" /><b>groepsreis</b></td>
+<td class="s"> Heey, <br /> <br />Is er iemand die weet of er een reisorganisatie is die de haute route ( wandelvariant ) als groepsreis aanbiedt ? <br />heb het hele internet al afgezocht en vind alleen een paar engelse tour operators. <br /> <br />bvd Danny </td><td class="s" nowrap="nowrap">29 Oct 2004 06:19</td></tr>
+<tr class="b"><td><b><a class="j" href="#" onclick="usr('ben');return false"><img src="pics/w1.gif" width="11" height="14" alt="" border="0" hspace="2" />Ben</a></b><br clear="all" /><img src="pics/b1.gif" width="14" height="14" alt="" hspace="1" align="left" /><b>Te Voet</b></td>
+<td class="s"> Kijk eens op www.tevoet.be. Ik ben wel niet zeker of ze ook de Haute Route aanbieden... </td><td class="s" nowrap="nowrap">30 Oct 2004 17:08</td></tr>
+<tr class="a"><td><b><img src="pics/w1.gif" width="11" height="14" alt="" border="0" hspace="2" />François</b><br clear="all" /><img src="pics/b1.gif" width="14" height="14" alt="" hspace="1" align="left" /><b>HRP</b></td>
+<td class="s"> De Nederlandse reisorganisatie SNP biedt in elk geval een aantal pittige arrangementen in de Pyreneeën aan : <br /> <br />www.snp.nl <br /> <br />Dé referentie (maar dat wist je misschien al) over de Pyreneeën in de Lage Landen is Ton Joosten (van wie vorig jaar bij de Engelse uitgeverij Cicerone een boek over de HRP is verschenen) : <br /> <br />www.pyreneeen-online.com <br /> <br /> <br />Beste groeten, <br /> <br /> <br />François Van Den Reym <br /> <br />www.wandelpassie.be </td><td class="s" nowrap="nowrap">02 Nov 2004 08:05</td></tr>
+<tr class="b"><td class="f" colspan="2" height="20">&nbsp;<a href="add.php?f=0&amp;topic=20041029081915">Toevoegen Verzenden</a></td><td align="center" class="f" height="20"><a href="#" onclick="self.scrollTo(0,0);return false">Top</a></td></tr></table></td></tr></table>
+ 
+<a href="info.php" onclick="uri=escape(window.location.toString());uri='info.php?uri='+uri;window.open(uri,'inf','width=250,height=125');return false" title="about EasyForum!"><img src="pics/ef.gif" width="14" height="12" vspace="0" hspace="1" border="0" align="left" alt="about EasyForum!" /></a>
+<span class="f">0.055&nbsp;sec</span><br clear="all" /></td></tr></table></body></html>

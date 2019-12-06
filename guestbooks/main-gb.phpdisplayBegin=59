@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- BIG SAM v.1.1.08 * Built_In Guestbook / Stand_Alone Module * http://www.atilla.org/bigsam/ -->
+<html>
+<head><title>Hutten Gastenboek</title></head><body bgcolor="#FFFFFF">
+<center>
+<form method="POST" action="/guestbooks/main-gb.php"><table border="0" cellspacing="0" cellpadding="3">
+<tr bgcolor="#666666">
+<td><font color="#FFFFFF"><b>Naam :</b></font><input name="name" size="20" maxlength="50"></td>
+<td>&nbsp;</td>
+<td align=right><font color="#FFFFFF"><b>E-mail :</b></font><input name="email" size="20" maxlength="50"></td>
+</tr>
+<tr bgcolor="#EEEEEE"><td colspan="3">
+<font color="#000000"><b>Bericht :</b></font><br>
+<center><textarea name="message" cols="60" rows="7"></textarea></center>
+</td></tr>
+<tr bgcolor="#DDDDDD"><td colspan="3" align="right">
+<input type="submit" value="Zet in gastenboek!"></td></tr>
+</table>
+</form>
+</center>
+<p>&nbsp;</p>
+<center>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 11th May 2004 - 04:02:07 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>78 : <a title="bvrockanje.nl" href="mailto:bvrockanje.nl">fwlouer</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Met een woord een zeer goed opgezette site.
+<br>geweldig,ga door.
+<br>
+<br>Frits</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 08th May 2004 - 07:56:52 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>77 : <a title="wpm.linders@home.nl" href="mailto:wpm.linders@home.nl">Wim Linders</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Toevallig kom ik op deze site en zie veel bekende dingen. Goede info en alles ziet er prima uit. Maak regelmatig met vriedenclub meerdaagse tochten, meestal in Oostenrijk en dan met name in het Rátikon en Silvretta gebied. Blijft schitterend om te doen.
+<br>Ga nu verder zoeken op deze site naar bepaalde info, volgens mij kom ik er zo wel uit voor het komende seizoen.
+<br>Ga door !
+<br>Wim</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 07th April 2004 - 10:37:37 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>76 : <a title="hmossela@hetnet.nl" href="mailto:hmossela@hetnet.nl">Hennie van den Mosselaar</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Leuke site, per toeval gevonden. Een site voor een ieder die de bergen een warm hart toedraagt.
+<br>Al een aantal jaren maak ik met mijn zoon meerdaagse hoog alpiner toertochten in het Vinchgau gebied (Süd-Tirol). Vorig jaar zijn we in juli 4 dagen aaneen op trektocht geweest en hebben overnacht in de Eisjochlhütte - Stettinerhütte. Geweldige ervaring en een aanrader voor een ieder die van rust stilte en de natuur houd. Overdag een temperatuur van rond de 25 graden bij stalende blauwe hemel en s'nachts rond 5 uur de -4 graden. Over temperatuurs verschillen gesproken. Dit jaar staat de Planfernerhütte - Zwickauerhütte op het program. Voor eenieder die informatie wil over dit gebied of bovengenoemde hütten neem gerust contact op.  </b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 22nd March 2004 - 06:21:24 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>75 : <a title="Eugene@Vloeberghen.Be" href="mailto:Eugene@Vloeberghen.Be">Eugène Vloeberghen</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Zeer goeie informatieve site.Blij dat ik deze gevonden heb.
+<br>
+<br>Zelf ben ik verwent wandelaar en beginner bergtourer. Ik wou wel eigenlijk eens info vanaf de basis, hoe en wat je moet doen voor een geslaagde, serieuze bergtocht of huttentocht. Doen jullie infoavonden of dergelijke?
+<br>Zou anders wel interessant zijn meen ik.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 23rd February 2004 - 01:17:32 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>74 : <a title="timvan_hofstraeten@hotmail.com" href="mailto:timvan_hofstraeten@hotmail.com">Tim</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Wat kan ik nog aan de onderstaande superlatieven toevoegen ?? Thanks voor de mooie site en vele informatie die je hier aan iedereen aanbiedt. </b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 13th February 2004 - 08:41:32 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>73 : <a title="piet.smith@planet.nl" href="mailto:piet.smith@planet.nl">P. Smith</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Zeer waardevolle site voor de bergwandelaar die zijn eigen routes wil uitstippelen. Zeer veel uitstekend bruikbare informatie en tips.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 10th February 2004 - 06:33:25 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>72 : <a title="fr.dewulf@pandora.be" href="mailto:fr.dewulf@pandora.be">de wulf frank</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>toffe site voor de bergwandelaar die zelf zijn tochten
+<br>aan het voorbereiden is.thanks</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 06th February 2004 - 07:05:10 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>71 : <a title="fravdreym@hotmail.com" href="mailto:fravdreym@hotmail.com">François Van Den Reym</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Zeer informatieve site. Zelf ben ik meer &quot;gespecialiseerd&quot; in Ierland (Wicklow Way, Western Way, Kerry Way enz.) en Groot-Brittannië. Website : www.geocities.com/fvdreym</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 03rd February 2004 - 04:30:47 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>70 : <a title="jeka.vzw@glo.be" href="mailto:jeka.vzw@glo.be">Luc Claeys</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Heel overzichtelijk webstek! JEKA vzw organiseert groepsreizen voor jeugdbewegingen en gesloten groepen naar een aantal bergbestemmingen zoals Wallis, Adelboden, het Lechtal en het Slowaaks Paradijs en de Tatra. Ik verwijs in mijn reisdocumentatie voor Wallis dan reglmatig ook naar deze website.
+<br>Nog veel succes</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 31st January 2004 - 04:55:56 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>69 : <a title="bernardbonte@msn.com" href="mailto:bernardbonte@msn.com">Bernard</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>prachtige site!
+<br>
+<br>Heb onlangs nog een site van een hut in het Lechtal gevonden, een aanrader (met webcam).
+<br>nl. Bernhardseck.at
+<br>
+<br>groeten en doe zo verder</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 25th January 2004 - 05:21:12 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>68 : Leibold</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Ein Klasseordner, schön dass es so etwas gibt,herrliche Touren auch fürMenschen über 55 die auch Hochgebirgswandern wollen ist etwas dabei.
+<br>
+<br>vielem Dank </b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 21st January 2004 - 11:31:39 AM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>67 : pierre</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>proficiat met deze site</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 11th January 2004 - 01:23:37 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>66 : onbekend</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>goede site</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 07th January 2004 - 02:04:20 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>65 : <a title="www.vanhamond.tk" href="mailto:www.vanhamond.tk">Joost</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Dit is echt de overzichtelijkste site die ik ooit gezien heb. Ook is deze voorzien van alleen de belangrijkste informatie en is ook nog een uitgebreid. Kortom: alles wat een site nodig heeft is hier te vinden.
+<br>Echt helemaal super. zoals hans al zegt: 'Ik kan bijna niet wachten om weer te gaan!'</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 02nd January 2004 - 12:45:17 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>64 : Hans</b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Overzichtelijk en voorzien van de belangrijkste informatie.
+<br>Klasse !!
+<br>Deze site maakt me enthousiast.
+<br>Er zijn nog genoeg toppen en hutten te beklimmen in Europa.
+<br>Ik kan bijna niet wachten om weer te gaan.
+<br>groeten,
+<br>Hans uit Holland</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 22nd December 2003 - 12:10:12 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>63 : <a title="j.lenderink@chello.nl" href="mailto:j.lenderink@chello.nl">Judith Lenderink</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Dit is een hele mooie site, met zeer veel informatie over de hutten. Ik mis alleen informatie of er ook een hond mee mag in een hut. Ik ga namelijk van de zomer wandelen in Oostenrijk en neem dan mijn hond mee. Ik zou graag van te voren willen weten in welke hut mijn hond mee mag.
+<br>Misschien is het mogelijk dat mensen die informatie mee willen nemen bij de beschrijving van een hut!
+<br>Groetjes   Judith</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 06th December 2003 - 11:04:29 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>62 : <a title="arnold.schelstraete@skynet.be" href="mailto:arnold.schelstraete@skynet.be">Arnold</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>Prachtige site,veel praktische info i.v.m route beschrijvingen en zeer mooie foto's.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 04th December 2003 - 11:16:52 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>61 : <a title="geena57@hotmail.com" href="mailto:geena57@hotmail.com">geena</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>goeie site ,zet ik bij mijn favorieten
+<br>groetjes geena
+<br></b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 30th November 2003 - 10:25:24 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>60 : <a title="cor claassens@hotmail.com" href="mailto:cor claassens@hotmail.com">cor claassens</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>ik ben nieuw op internet en mijn mond valt open bij het zien van de vele informatie en de prachtige foto's die er te vinden zijn. Zo ook deze site.Ik maak al een aantal jaren bergwandelingen in Frankrijk, Italie en Slovenie. In juni gaan ik het park gran Paradiso verkennen.de eerste hut zal V.Sella zijn.In augustus naar Wallis en de Mattahorn aan Italiaanse zijde waar ik hoge verwachtingen van heb. ik hoop in het najaar ook foto's voor deze site aan te kunnen leveren. ga zo door. groetjes Cor.</b></font></td></tr></table><br><br>
+<table cellspacing="0" border="0" width="600"><tr><td bgcolor="#666666"><font color="#FFFFFF" size="-3">&nbsp; &nbsp; 09th November 2003 - 08:03:09 PM &nbsp; &nbsp;</font></td></tr><tr><td bgcolor="#DDDDDD"><font Color="#000000"><b>59 : <a title="theomombarg@wanadoo.nl" href="mailto:theomombarg@wanadoo.nl">t mombarg</a></b></font></td></tr><tr><td bgcolor="#EEEEEE"><font color="#666666"><b>zeer fraaie site  ik ben na een weekje bergwandelen in
+<br>het verwallgebergte erg onder de indruk geraakt van de alpen en z'n mogelijkheden</b></font></td></tr></table><br><br>
+<p>&nbsp;</p>
+<a href="/guestbooks/main-gb.php?displayBegin=1"><tt>[</tt>1-19<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=20"><tt>[</tt>20-39<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=40"><tt>[</tt>40-59<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=60"><tt>[</tt>60-79<tt>]</tt></a>
+<a href="/guestbooks/main-gb.php?displayBegin=80"><tt>[</tt>80-99<tt>]</tt></a>
+</center>
+</body></html>
